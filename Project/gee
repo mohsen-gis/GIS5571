@@ -1,0 +1,466 @@
+var modis = ee.ImageCollection("MODIS/006/MOD11A1"),
+    ROI = ee.FeatureCollection("projects/ee-ahmadkhanimohsen/assets/cb_2018_us_county_5m"),
+    imageVisParam = {"opacity":1,"bands":["LST_Day_1km","QC_Day","Day_view_time"],"min":1.1612903225806452,"max":14887.368421052632,"gamma":1},
+    ROI_ii = 
+    /* color: #d63000 */
+    /* shown: false */
+    /* displayProperties: [
+      {
+        "type": "rectangle"
+      }
+    ] */
+    ee.Geometry.Polygon(
+        [[[-128.97224022753542, 50.95779259761534],
+          [-128.97224022753542, 23.401840993012964],
+          [-65.51520897753542, 23.401840993012964],
+          [-65.51520897753542, 50.95779259761534]]], null, false),
+    geometry = 
+    /* color: #d63000 */
+    /* shown: false */
+    ee.Geometry.MultiPoint(),
+    border = ee.FeatureCollection("projects/ee-ahmadkhanimohsen/assets/us_border");
+    
+
+// var selection = sentinel.filterBounds(ROI)
+var selection1 = modis.filterBounds(ROI)
+.filterDate("2020-01-01","2020-02-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+var selection2 = modis.filterBounds(ROI)
+.filterDate("2020-02-01","2020-03-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+var selection3 = modis.filterBounds(ROI)
+.filterDate("2020-03-01","2020-04-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+var selection4 = modis.filterBounds(ROI)
+InspectorConsoleTasks
+
+
+
+
+// var selection = sentinel.filterBounds(ROI)
+var selection1 = modis.filterBounds(ROI)
+.filterDate("2020-01-01","2020-02-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection2 = modis.filterBounds(ROI)
+.filterDate("2020-02-01","2020-03-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection3 = modis.filterBounds(ROI)
+.filterDate("2020-03-01","2020-04-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection4 = modis.filterBounds(ROI)
+.filterDate("2020-04-01","2020-05-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection5 = modis.filterBounds(ROI)
+.filterDate("2020-05-01","2020-06-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection6 = modis.filterBounds(ROI)
+.filterDate("2020-06-01","2020-07-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection7 = modis.filterBounds(ROI)
+.filterDate("2020-07-01","2020-08-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection8 = modis.filterBounds(ROI)
+.filterDate("2020-08-01","2020-09-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection9 = modis.filterBounds(ROI)
+.filterDate("2020-09-01","2020-10-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection10 = modis.filterBounds(ROI)
+.filterDate("2020-10-01","2020-11-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection11 = modis.filterBounds(ROI)
+.filterDate("2020-11-01","2020-12-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection12 = modis.filterBounds(ROI)
+.filterDate("2020-12-01","2021-01-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection13 = modis.filterBounds(ROI)
+.filterDate("2021-01-01","2021-02-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+var selection14 = modis.filterBounds(ROI)
+.filterDate("2021-02-01","2021-03-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection15 = modis.filterBounds(ROI)
+.filterDate("2021-03-01","2021-04-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection16 = modis.filterBounds(ROI)
+.filterDate("2021-04-01","2021-05-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection17 = modis.filterBounds(ROI)
+.filterDate("2021-05-01","2021-06-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection18 = modis.filterBounds(ROI)
+.filterDate("2021-06-01","2021-07-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection19 = modis.filterBounds(ROI)
+.filterDate("2021-07-01","2021-08-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection20 = modis.filterBounds(ROI)
+.filterDate("2021-08-01","2021-09-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection21 = modis.filterBounds(ROI)
+.filterDate("2021-09-01","2021-10-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection22 = modis.filterBounds(ROI)
+.filterDate("2021-10-01","2021-11-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+var selection23 = modis.filterBounds(ROI)
+.filterDate("2021-11-01","2021-12-01")
+.select(['LST_Day_1km'])
+.mean()
+.clip(ROI);  
+
+
+
+
+
+Map.addLayer(selection1, {bands:["LST_Day_1km"]});
+
+// var means = selection.reduceRegion({
+//   reducer: ee.Reducer.mean().group({
+//     // groupField: 1,
+//     groupName: 'GEOID',
+//   }),
+//   geometry: ROI.geometry(),
+//   scale: 10000,
+//   maxPixels: 1e8
+// });
+
+// // Print the resultant Dictionary.
+// print(means);
+
+
+Export.image.toDrive({
+  image: selection1,
+  description: '20201_v',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: border,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+Export.image.toDrive({
+  image: selection2,
+  description: '20202',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection3,
+  description: '20203',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection4,
+  description: '20204',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection5,
+  description: '20205',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection6,
+  description: '20206',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection7,
+  description: '20207',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection8,
+  description: '20208',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection9,
+  description: '20209',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection10,
+  description: '202010',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection11,
+  description: '202011',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection12,
+  description: '202012',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection13,
+  description: '20211',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection14,
+  description: '20212',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection15,
+  description: '20213',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection16,
+  description: '20214',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection17,
+  description: '20215',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection18,
+  description: '20216',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection19,
+  description: '20217',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection20,
+  description: '20218',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection21,
+  description: '20219',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection22,
+  description: '202110',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+Export.image.toDrive({
+  image: selection23,
+  description: '202111',
+  folder: 'geofoodies_outputs',
+  scale: 10000,
+  // region: ROI,
+  maxPixels:300000000,
+  fileFormat: 'GeoTIFF'
+});
+
+
+

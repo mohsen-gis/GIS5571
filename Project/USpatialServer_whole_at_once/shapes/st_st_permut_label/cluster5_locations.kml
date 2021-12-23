@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 5 Locations</name>
+		<Placemark><name>29077</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.342,37.258,0</coordinates></Point></Placemark>
+		<Placemark><name>29043</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.1889,36.9696,0</coordinates></Point></Placemark>
+		<Placemark><name>29167</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.4005,37.6165,0</coordinates></Point></Placemark>
+		<Placemark><name>29225</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.8759,37.2809,0</coordinates></Point></Placemark>
+		<Placemark><name>29109</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.833,37.1064,0</coordinates></Point></Placemark>
+		<Placemark><name>29057</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.8503,37.4321,0</coordinates></Point></Placemark>
+		<Placemark><name>29059</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.0237,37.6804,0</coordinates></Point></Placemark>
+		<Placemark><name>29209</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.456,36.7469,0</coordinates></Point></Placemark>
+		<Placemark><name>29039</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.8566,37.7239,0</coordinates></Point></Placemark>
+		<Placemark><name>29213</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.0411,36.6548,0</coordinates></Point></Placemark>
+		<Placemark><name>29009</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.8291,36.7099,0</coordinates></Point></Placemark>
+		<Placemark><name>29085</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.3208,37.9408,0</coordinates></Point></Placemark>
+		<Placemark><name>29229</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.4687,37.2702,0</coordinates></Point></Placemark>
+		<Placemark><name>29105</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.5903,37.6583,0</coordinates></Point></Placemark>
+		<Placemark><name>29067</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.4988,36.9326,0</coordinates></Point></Placemark>
+		<Placemark><name>29097</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.3406,37.2036,0</coordinates></Point></Placemark>
+		<Placemark><name>29011</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.3471,37.5023,0</coordinates></Point></Placemark>
+		<Placemark><name>29185</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.776,38.0372,0</coordinates></Point></Placemark>
+		<Placemark><name>29145</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.3393,36.9055,0</coordinates></Point></Placemark>
+		<Placemark><name>29029</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.766,38.027,0</coordinates></Point></Placemark>
+		<Placemark><name>05015</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.5382,36.341,0</coordinates></Point></Placemark>
+		<Placemark><name>29153</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.4447,36.6493,0</coordinates></Point></Placemark>
+		<Placemark><name>05009</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.0915,36.3086,0</coordinates></Point></Placemark>
+		<Placemark><name>29217</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.3424,37.8506,0</coordinates></Point></Placemark>
+		<Placemark><name>29119</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.3483,36.6287,0</coordinates></Point></Placemark>
+		<Placemark><name>29015</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.2879,38.2948,0</coordinates></Point></Placemark>
+		<Placemark><name>29169</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.2076,37.8246,0</coordinates></Point></Placemark>
+		<Placemark><name>29215</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-91.965,37.3173,0</coordinates></Point></Placemark>
+		<Placemark><name>05089</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.6842,36.2684,0</coordinates></Point></Placemark>
+		<Placemark><name>05007</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.2562,36.3387,0</coordinates></Point></Placemark>
+		<Placemark><name>29083</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-93.7928,38.3852,0</coordinates></Point></Placemark>
+		<Placemark><name>29131</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.4284,38.2145,0</coordinates></Point></Placemark>
+		<Placemark><name>20021</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.8463,37.1693,0</coordinates></Point></Placemark>
+		<Placemark><name>29141</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-92.886,38.4237,0</coordinates></Point></Placemark>
+		<Placemark><name>20037</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.8518,37.5073,0</coordinates></Point></Placemark>
+		<Placemark><name>40115</name><visibility>0</visibility><description></description><styleUrl>st_st_permut_label.kml#high-rate-placemark</styleUrl><Point><coordinates>-94.8104,36.8355,0</coordinates></Point></Placemark>
+</Document>
+</kml>

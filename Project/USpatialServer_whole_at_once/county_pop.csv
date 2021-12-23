@@ -1,0 +1,3143 @@
+fips,state,name,pop2017
+1001,Alabama,Autauga County,55504
+1003,Alabama,Baldwin County,212628
+1005,Alabama,Barbour County,25270
+1007,Alabama,Bibb County,22668
+1009,Alabama,Blount County,58013
+1011,Alabama,Bullock County,10309
+1013,Alabama,Butler County,19825
+1015,Alabama,Calhoun County,114728
+1017,Alabama,Chambers County,33713
+1019,Alabama,Cherokee County,25857
+1021,Alabama,Chilton County,44067
+1023,Alabama,Choctaw County,12945
+1025,Alabama,Clarke County,24083
+1027,Alabama,Clay County,13367
+1029,Alabama,Cleburne County,14900
+1031,Alabama,Coffee County,51874
+1033,Alabama,Colbert County,54500
+1035,Alabama,Conecuh County,12469
+1037,Alabama,Coosa County,10754
+1039,Alabama,Covington County,37092
+1041,Alabama,Crenshaw County,13871
+1043,Alabama,Cullman County,82755
+1045,Alabama,Dale County,49226
+1047,Alabama,Dallas County,39215
+1049,Alabama,DeKalb County,71617
+1051,Alabama,Elmore County,81677
+1053,Alabama,Escambia County,37447
+1055,Alabama,Etowah County,102755
+1057,Alabama,Fayette County,16468
+1059,Alabama,Franklin County,31495
+1061,Alabama,Geneva County,26421
+1063,Alabama,Greene County,8330
+1065,Alabama,Hale County,14812
+1067,Alabama,Henry County,17147
+1069,Alabama,Houston County,104346
+1071,Alabama,Jackson County,51909
+1073,Alabama,Jefferson County,659197
+1075,Alabama,Lamar County,13946
+1077,Alabama,Lauderdale County,92538
+1079,Alabama,Lawrence County,33049
+1081,Alabama,Lee County,161604
+1083,Alabama,Limestone County,94402
+1085,Alabama,Lowndes County,10076
+1087,Alabama,Macon County,18755
+1089,Alabama,Madison County,361046
+1091,Alabama,Marengo County,19375
+1093,Alabama,Marion County,29833
+1095,Alabama,Marshall County,95548
+1097,Alabama,Mobile County,413955
+1099,Alabama,Monroe County,21327
+1101,Alabama,Montgomery County,226646
+1103,Alabama,Morgan County,118818
+1105,Alabama,Perry County,9339
+1107,Alabama,Pickens County,20176
+1109,Alabama,Pike County,33267
+1111,Alabama,Randolph County,22670
+1113,Alabama,Russell County,57045
+1115,Alabama,St. Clair County,88199
+1117,Alabama,Shelby County,213605
+1119,Alabama,Sumter County,12687
+1121,Alabama,Talladega County,80065
+1123,Alabama,Tallapoosa County,40681
+1125,Alabama,Tuscaloosa County,207811
+1127,Alabama,Walker County,64058
+1129,Alabama,Washington County,16531
+1131,Alabama,Wilcox County,10719
+1133,Alabama,Winston County,23722
+2013,Alaska,Aleutians East Borough,3370
+2016,Alaska,Aleutians West Census Area,5763
+2020,Alaska,Anchorage Municipality,294356
+2050,Alaska,Bethel Census Area,18076
+2060,Alaska,Bristol Bay Borough,867
+2068,Alaska,Denali Borough,2074
+2070,Alaska,Dillingham Census Area,4932
+2090,Alaska,Fairbanks North Star Borough,99703
+2100,Alaska,Haines Borough,2526
+2105,Alaska,Hoonah Angoon Census Area,NA
+2110,Alaska,Juneau City and Borough,32094
+2122,Alaska,Kenai Peninsula Borough,58617
+2130,Alaska,Ketchikan Gateway Borough,13856
+2150,Alaska,Kodiak Island Borough,13448
+2158,Alaska,Kusilvak Census Area,8202
+2164,Alaska,Lake and Peninsula Borough,1620
+2170,Alaska,Matanuska-Susitna Borough,106532
+2180,Alaska,Nome Census Area,9921
+2185,Alaska,North Slope Borough,9782
+2188,Alaska,Northwest Arctic Borough,7684
+2195,Alaska,Petersburg Borough,3281
+2198,Alaska,Prince of Wales-Hyder Census Area,6443
+2220,Alaska,Sitka City and Borough,8689
+2230,Alaska,Skagway,NA
+2240,Alaska,Southeast Fairbanks Census Area,6888
+2261,Alaska,Valdez-Cordova Census Area,9278
+2275,Alaska,Wrangell,NA
+2282,Alaska,Yakutat City and Borough,605
+2290,Alaska,Yukon-Koyukuk Census Area,5365
+4001,Arizona,Apache County,71606
+4003,Arizona,Cochise County,124756
+4005,Arizona,Coconino County,140776
+4007,Arizona,Gila County,53501
+4009,Arizona,Graham County,37466
+4011,Arizona,Greenlee County,9455
+4012,Arizona,La Paz County,20601
+4013,Arizona,Maricopa County,4307033
+4015,Arizona,Mohave County,207200
+4017,Arizona,Navajo County,108956
+4019,Arizona,Pima County,1022769
+4021,Arizona,Pinal County,430237
+4023,Arizona,Santa Cruz County,46212
+4025,Arizona,Yavapai County,228168
+4027,Arizona,Yuma County,207534
+5001,Arkansas,Arkansas County,17967
+5003,Arkansas,Ashley County,20283
+5005,Arkansas,Baxter County,41355
+5007,Arkansas,Benton County,266300
+5009,Arkansas,Boone County,37381
+5011,Arkansas,Bradley County,10864
+5013,Arkansas,Calhoun County,5247
+5015,Arkansas,Carroll County,27944
+5017,Arkansas,Chicot County,10636
+5019,Arkansas,Clark County,22293
+5021,Arkansas,Clay County,14920
+5023,Arkansas,Cleburne County,25048
+5025,Arkansas,Cleveland County,8202
+5027,Arkansas,Columbia County,23627
+5029,Arkansas,Conway County,20916
+5031,Arkansas,Craighead County,107115
+5033,Arkansas,Crawford County,62996
+5035,Arkansas,Crittenden County,48750
+5037,Arkansas,Cross County,16863
+5039,Arkansas,Dallas County,7393
+5041,Arkansas,Desha County,11764
+5043,Arkansas,Drew County,18547
+5045,Arkansas,Faulkner County,123654
+5047,Arkansas,Franklin County,17890
+5049,Arkansas,Fulton County,12055
+5051,Arkansas,Garland County,98658
+5053,Arkansas,Grant County,18165
+5055,Arkansas,Greene County,45053
+5057,Arkansas,Hempstead County,21861
+5059,Arkansas,Hot Spring County,33574
+5061,Arkansas,Howard County,13478
+5063,Arkansas,Independence County,37504
+5065,Arkansas,Izard County,13686
+5067,Arkansas,Jackson County,17135
+5069,Arkansas,Jefferson County,69115
+5071,Arkansas,Johnson County,26552
+5073,Arkansas,Lafayette County,6862
+5075,Arkansas,Lawrence County,16525
+5077,Arkansas,Lee County,9176
+5079,Arkansas,Lincoln County,13646
+5081,Arkansas,Little River County,12359
+5083,Arkansas,Logan County,21722
+5085,Arkansas,Lonoke County,72898
+5087,Arkansas,Madison County,16339
+5089,Arkansas,Marion County,16428
+5091,Arkansas,Miller County,43984
+5093,Arkansas,Mississippi County,42159
+5095,Arkansas,Monroe County,7085
+5097,Arkansas,Montgomery County,8919
+5099,Arkansas,Nevada County,8327
+5101,Arkansas,Newton County,7828
+5103,Arkansas,Ouachita County,23868
+5105,Arkansas,Perry County,10348
+5107,Arkansas,Phillips County,18572
+5109,Arkansas,Pike County,10726
+5111,Arkansas,Poinsett County,24154
+5113,Arkansas,Polk County,20118
+5115,Arkansas,Pope County,63835
+5117,Arkansas,Prairie County,8248
+5119,Arkansas,Pulaski County,393956
+5121,Arkansas,Randolph County,17557
+5123,Arkansas,St. Francis County,25930
+5125,Arkansas,Saline County,119323
+5127,Arkansas,Scott County,10445
+5129,Arkansas,Searcy County,7938
+5131,Arkansas,Sebastian County,128107
+5133,Arkansas,Sevier County,17115
+5135,Arkansas,Sharp County,17393
+5137,Arkansas,Stone County,12537
+5139,Arkansas,Union County,39449
+5141,Arkansas,Van Buren County,16506
+5143,Arkansas,Washington County,231996
+5145,Arkansas,White County,79016
+5147,Arkansas,Woodruff County,6571
+5149,Arkansas,Yell County,21523
+6001,California,Alameda County,1663190
+6003,California,Alpine County,1120
+6005,California,Amador County,38626
+6007,California,Butte County,229294
+6009,California,Calaveras County,45670
+6011,California,Colusa County,21805
+6013,California,Contra Costa County,1147439
+6015,California,Del Norte County,27470
+6017,California,El Dorado County,188987
+6019,California,Fresno County,989255
+6021,California,Glenn County,28094
+6023,California,Humboldt County,136754
+6025,California,Imperial County,182830
+6027,California,Inyo County,18026
+6029,California,Kern County,893119
+6031,California,Kings County,150101
+6033,California,Lake County,64246
+6035,California,Lassen County,31163
+6037,California,Los Angeles County,10163507
+6039,California,Madera County,156890
+6041,California,Marin County,260955
+6043,California,Mariposa County,17569
+6045,California,Mendocino County,88018
+6047,California,Merced County,272673
+6049,California,Modoc County,8859
+6051,California,Mono County,14168
+6053,California,Monterey County,437907
+6055,California,Napa County,140973
+6057,California,Nevada County,99814
+6059,California,Orange County,3190400
+6061,California,Placer County,386166
+6063,California,Plumas County,18742
+6065,California,Riverside County,2423266
+6067,California,Sacramento County,1530615
+6069,California,San Benito County,60310
+6071,California,San Bernardino County,2157404
+6073,California,San Diego County,3337685
+6075,California,San Francisco County,884363
+6077,California,San Joaquin County,745424
+6079,California,San Luis Obispo County,283405
+6081,California,San Mateo County,771410
+6083,California,Santa Barbara County,448150
+6085,California,Santa Clara County,1938153
+6087,California,Santa Cruz County,275897
+6089,California,Shasta County,179921
+6091,California,Sierra County,2999
+6093,California,Siskiyou County,43853
+6095,California,Solano County,445458
+6097,California,Sonoma County,504217
+6099,California,Stanislaus County,547899
+6101,California,Sutter County,96648
+6103,California,Tehama County,63926
+6105,California,Trinity County,12709
+6107,California,Tulare County,464493
+6109,California,Tuolumne County,54248
+6111,California,Ventura County,854223
+6113,California,Yolo County,219116
+6115,California,Yuba County,77031
+8001,Colorado,Adams County,503167
+8003,Colorado,Alamosa County,16551
+8005,Colorado,Arapahoe County,643052
+8007,Colorado,Archuleta County,13315
+8009,Colorado,Baca County,3562
+8011,Colorado,Bent County,5938
+8013,Colorado,Boulder County,322514
+8014,Colorado,Broomfield County,68341
+8015,Colorado,Chaffee County,19638
+8017,Colorado,Cheyenne County,1845
+8019,Colorado,Clear Creek County,9574
+8021,Colorado,Conejos County,8184
+8023,Colorado,Costilla County,3776
+8025,Colorado,Crowley County,5810
+8027,Colorado,Custer County,4874
+8029,Colorado,Delta County,30568
+8031,Colorado,Denver County,704621
+8033,Colorado,Dolores County,2067
+8035,Colorado,Douglas County,335299
+8037,Colorado,Eagle County,54772
+8039,Colorado,Elbert County,25642
+8041,Colorado,El Paso County,699232
+8043,Colorado,Fremont County,47559
+8045,Colorado,Garfield County,59118
+8047,Colorado,Gilpin County,6013
+8049,Colorado,Grand County,15321
+8051,Colorado,Gunnison County,16939
+8053,Colorado,Hinsdale County,794
+8055,Colorado,Huerfano County,6662
+8057,Colorado,Jackson County,1385
+8059,Colorado,Jefferson County,574613
+8061,Colorado,Kiowa County,1376
+8063,Colorado,Kit Carson County,7158
+8065,Colorado,Lake County,7778
+8067,Colorado,La Plata County,55589
+8069,Colorado,Larimer County,343976
+8071,Colorado,Las Animas County,14238
+8073,Colorado,Lincoln County,5546
+8075,Colorado,Logan County,21896
+8077,Colorado,Mesa County,151616
+8079,Colorado,Mineral County,766
+8081,Colorado,Moffat County,13131
+8083,Colorado,Montezuma County,26140
+8085,Colorado,Montrose County,41784
+8087,Colorado,Morgan County,28192
+8089,Colorado,Otero County,18326
+8091,Colorado,Ouray County,4794
+8093,Colorado,Park County,17905
+8095,Colorado,Phillips County,4292
+8097,Colorado,Pitkin County,17890
+8099,Colorado,Prowers County,12070
+8101,Colorado,Pueblo County,166475
+8103,Colorado,Rio Blanco County,6420
+8105,Colorado,Rio Grande County,11301
+8107,Colorado,Routt County,25220
+8109,Colorado,Saguache County,6626
+8111,Colorado,San Juan County,715
+8113,Colorado,San Miguel County,7967
+8115,Colorado,Sedgwick County,2344
+8117,Colorado,Summit County,30585
+8119,Colorado,Teller County,24646
+8121,Colorado,Washington County,4938
+8123,Colorado,Weld County,304633
+8125,Colorado,Yuma County,10075
+9001,Connecticut,Fairfield County,949921
+9003,Connecticut,Hartford County,895388
+9005,Connecticut,Litchfield County,182177
+9007,Connecticut,Middlesex County,163410
+9009,Connecticut,New Haven County,860435
+9011,Connecticut,New London County,269033
+9013,Connecticut,Tolland County,151461
+9015,Connecticut,Windham County,116359
+10001,Delaware,Kent County,176824
+10003,Delaware,New Castle County,559793
+10005,Delaware,Sussex County,225322
+11001,District of Columbia,District of Columbia,693972
+12001,Florida,Alachua County,266944
+12003,Florida,Baker County,28283
+12005,Florida,Bay County,183563
+12007,Florida,Bradford County,27038
+12009,Florida,Brevard County,589162
+12011,Florida,Broward County,1935878
+12013,Florida,Calhoun County,14483
+12015,Florida,Charlotte County,182033
+12017,Florida,Citrus County,145647
+12019,Florida,Clay County,212230
+12021,Florida,Collier County,372880
+12023,Florida,Columbia County,69612
+12027,Florida,DeSoto County,36862
+12029,Florida,Dixie County,16673
+12031,Florida,Duval County,937934
+12033,Florida,Escambia County,313512
+12035,Florida,Flagler County,110510
+12037,Florida,Franklin County,11727
+12039,Florida,Gadsden County,46071
+12041,Florida,Gilchrist County,17743
+12043,Florida,Glades County,13754
+12045,Florida,Gulf County,16160
+12047,Florida,Hamilton County,14184
+12049,Florida,Hardee County,27411
+12051,Florida,Hendry County,40347
+12053,Florida,Hernando County,186553
+12055,Florida,Highlands County,102883
+12057,Florida,Hillsborough County,1408566
+12059,Florida,Holmes County,19558
+12061,Florida,Indian River County,154383
+12063,Florida,Jackson County,48330
+12065,Florida,Jefferson County,14144
+12067,Florida,Lafayette County,8451
+12069,Florida,Lake County,346017
+12071,Florida,Lee County,739224
+12073,Florida,Leon County,290292
+12075,Florida,Levy County,40355
+12077,Florida,Liberty County,8242
+12079,Florida,Madison County,18449
+12081,Florida,Manatee County,385571
+12083,Florida,Marion County,354353
+12085,Florida,Martin County,159923
+12086,Florida,Miami-Dade County,2751796
+12087,Florida,Monroe County,77013
+12089,Florida,Nassau County,82721
+12091,Florida,Okaloosa County,202970
+12093,Florida,Okeechobee County,41605
+12095,Florida,Orange County,1348975
+12097,Florida,Osceola County,352180
+12099,Florida,Palm Beach County,1471150
+12101,Florida,Pasco County,525643
+12103,Florida,Pinellas County,970637
+12105,Florida,Polk County,686483
+12107,Florida,Putnam County,73464
+12109,Florida,St. Johns County,243812
+12111,Florida,St. Lucie County,313506
+12113,Florida,Santa Rosa County,174272
+12115,Florida,Sarasota County,419119
+12117,Florida,Seminole County,462659
+12119,Florida,Sumter County,125165
+12121,Florida,Suwannee County,44190
+12123,Florida,Taylor County,21833
+12125,Florida,Union County,15517
+12127,Florida,Volusia County,538692
+12129,Florida,Wakulla County,32120
+12131,Florida,Walton County,68376
+12133,Florida,Washington County,24567
+13001,Georgia,Appling County,18521
+13003,Georgia,Atkinson County,8342
+13005,Georgia,Bacon County,11319
+13007,Georgia,Baker County,3200
+13009,Georgia,Baldwin County,44906
+13011,Georgia,Banks County,18634
+13013,Georgia,Barrow County,79061
+13015,Georgia,Bartow County,105054
+13017,Georgia,Ben Hill County,16996
+13019,Georgia,Berrien County,19186
+13021,Georgia,Bibb County,152862
+13023,Georgia,Bleckley County,12830
+13025,Georgia,Brantley County,18731
+13027,Georgia,Brooks County,15587
+13029,Georgia,Bryan County,37060
+13031,Georgia,Bulloch County,76149
+13033,Georgia,Burke County,22522
+13035,Georgia,Butts County,24059
+13037,Georgia,Calhoun County,6455
+13039,Georgia,Camden County,53044
+13043,Georgia,Candler County,10797
+13045,Georgia,Carroll County,117812
+13047,Georgia,Catoosa County,66550
+13049,Georgia,Charlton County,12715
+13051,Georgia,Chatham County,290501
+13053,Georgia,Chattahoochee County,10343
+13055,Georgia,Chattooga County,24770
+13057,Georgia,Cherokee County,247573
+13059,Georgia,Clarke County,127064
+13061,Georgia,Clay County,2962
+13063,Georgia,Clayton County,285153
+13065,Georgia,Clinch County,6727
+13067,Georgia,Cobb County,755754
+13069,Georgia,Coffee County,43014
+13071,Georgia,Colquitt County,45835
+13073,Georgia,Columbia County,151579
+13075,Georgia,Cook County,17277
+13077,Georgia,Coweta County,143114
+13079,Georgia,Crawford County,12295
+13081,Georgia,Crisp County,22736
+13083,Georgia,Dade County,16285
+13085,Georgia,Dawson County,24379
+13087,Georgia,Decatur County,26716
+13089,Georgia,DeKalb County,753253
+13091,Georgia,Dodge County,20730
+13093,Georgia,Dooly County,13737
+13095,Georgia,Dougherty County,89502
+13097,Georgia,Douglas County,143882
+13099,Georgia,Early County,10296
+13101,Georgia,Echols County,3936
+13103,Georgia,Effingham County,59982
+13105,Georgia,Elbert County,19109
+13107,Georgia,Emanuel County,22530
+13109,Georgia,Evans County,10775
+13111,Georgia,Fannin County,25322
+13113,Georgia,Fayette County,112549
+13115,Georgia,Floyd County,97613
+13117,Georgia,Forsyth County,227967
+13119,Georgia,Franklin County,22820
+13121,Georgia,Fulton County,1041423
+13123,Georgia,Gilmer County,30674
+13125,Georgia,Glascock County,3062
+13127,Georgia,Glynn County,85282
+13129,Georgia,Gordon County,57089
+13131,Georgia,Grady County,24819
+13133,Georgia,Greene County,17281
+13135,Georgia,Gwinnett County,920260
+13137,Georgia,Habersham County,44567
+13139,Georgia,Hall County,199335
+13141,Georgia,Hancock County,8561
+13143,Georgia,Haralson County,29256
+13145,Georgia,Harris County,33915
+13147,Georgia,Hart County,25794
+13149,Georgia,Heard County,11730
+13151,Georgia,Henry County,225813
+13153,Georgia,Houston County,153479
+13155,Georgia,Irwin County,9410
+13157,Georgia,Jackson County,67519
+13159,Georgia,Jasper County,13964
+13161,Georgia,Jeff Davis County,15025
+13163,Georgia,Jefferson County,15648
+13165,Georgia,Jenkins County,8767
+13167,Georgia,Johnson County,9788
+13169,Georgia,Jones County,28470
+13171,Georgia,Lamar County,18599
+13173,Georgia,Lanier County,10425
+13175,Georgia,Laurens County,47330
+13177,Georgia,Lee County,29470
+13179,Georgia,Liberty County,61386
+13181,Georgia,Lincoln County,7880
+13183,Georgia,Long County,19014
+13185,Georgia,Lowndes County,115489
+13187,Georgia,Lumpkin County,32873
+13189,Georgia,McDuffie County,21498
+13191,Georgia,McIntosh County,14106
+13193,Georgia,Macon County,13314
+13195,Georgia,Madison County,29302
+13197,Georgia,Marion County,8450
+13199,Georgia,Meriwether County,21049
+13201,Georgia,Miller County,5838
+13205,Georgia,Mitchell County,22292
+13207,Georgia,Monroe County,27113
+13209,Georgia,Montgomery County,9031
+13211,Georgia,Morgan County,18412
+13213,Georgia,Murray County,39782
+13215,Georgia,Muscogee County,194058
+13217,Georgia,Newton County,108078
+13219,Georgia,Oconee County,38028
+13221,Georgia,Oglethorpe County,14877
+13223,Georgia,Paulding County,159445
+13225,Georgia,Peach County,27099
+13227,Georgia,Pickens County,31588
+13229,Georgia,Pierce County,19307
+13231,Georgia,Pike County,18217
+13233,Georgia,Polk County,42085
+13235,Georgia,Pulaski County,11201
+13237,Georgia,Putnam County,21730
+13239,Georgia,Quitman County,2358
+13241,Georgia,Rabun County,16602
+13243,Georgia,Randolph County,7075
+13245,Georgia,Richmond County,201800
+13247,Georgia,Rockdale County,90312
+13249,Georgia,Schley County,5213
+13251,Georgia,Screven County,13953
+13253,Georgia,Seminole County,8292
+13255,Georgia,Spalding County,65380
+13257,Georgia,Stephens County,25890
+13259,Georgia,Stewart County,5985
+13261,Georgia,Sumter County,29847
+13263,Georgia,Talbot County,6249
+13265,Georgia,Taliaferro County,1628
+13267,Georgia,Tattnall County,25334
+13269,Georgia,Taylor County,8142
+13271,Georgia,Telfair County,15989
+13273,Georgia,Terrell County,8729
+13275,Georgia,Thomas County,44779
+13277,Georgia,Tift County,40598
+13279,Georgia,Toombs County,26999
+13281,Georgia,Towns County,11506
+13283,Georgia,Treutlen County,6740
+13285,Georgia,Troup County,69786
+13287,Georgia,Turner County,7961
+13289,Georgia,Twiggs County,8174
+13291,Georgia,Union County,23459
+13293,Georgia,Upson County,26135
+13295,Georgia,Walker County,68939
+13297,Georgia,Walton County,91600
+13299,Georgia,Ware County,35871
+13301,Georgia,Warren County,5303
+13303,Georgia,Washington County,20313
+13305,Georgia,Wayne County,29817
+13307,Georgia,Webster County,2605
+13309,Georgia,Wheeler County,7952
+13311,Georgia,White County,29453
+13313,Georgia,Whitfield County,104658
+13315,Georgia,Wilcox County,8800
+13317,Georgia,Wilkes County,9892
+13319,Georgia,Wilkinson County,8959
+13321,Georgia,Worth County,20533
+15001,Hawaii,Hawaii County,200381
+15003,Hawaii,Honolulu County,988650
+15005,Hawaii,Kalawao County,88
+15007,Hawaii,Kauai County,72159
+15009,Hawaii,Maui County,166260
+16001,Idaho,Ada County,456849
+16003,Idaho,Adams County,4147
+16005,Idaho,Bannock County,85269
+16007,Idaho,Bear Lake County,6028
+16009,Idaho,Benewah County,9184
+16011,Idaho,Bingham County,45927
+16013,Idaho,Blaine County,22024
+16015,Idaho,Boise County,7290
+16017,Idaho,Bonner County,43560
+16019,Idaho,Bonneville County,114595
+16021,Idaho,Boundary County,11922
+16023,Idaho,Butte County,2602
+16025,Idaho,Camas County,1102
+16027,Idaho,Canyon County,216699
+16029,Idaho,Caribou County,7034
+16031,Idaho,Cassia County,23664
+16033,Idaho,Clark County,873
+16035,Idaho,Clearwater County,8546
+16037,Idaho,Custer County,4172
+16039,Idaho,Elmore County,26823
+16041,Idaho,Franklin County,13564
+16043,Idaho,Fremont County,13094
+16045,Idaho,Gem County,17379
+16047,Idaho,Gooding County,15124
+16049,Idaho,Idaho County,16369
+16051,Idaho,Jefferson County,28446
+16053,Idaho,Jerome County,23627
+16055,Idaho,Kootenai County,157637
+16057,Idaho,Latah County,39333
+16059,Idaho,Lemhi County,7875
+16061,Idaho,Lewis County,3887
+16063,Idaho,Lincoln County,5318
+16065,Idaho,Madison County,39141
+16067,Idaho,Minidoka County,20729
+16069,Idaho,Nez Perce County,40385
+16071,Idaho,Oneida County,4427
+16073,Idaho,Owyhee County,11628
+16075,Idaho,Payette County,23215
+16077,Idaho,Power County,7600
+16079,Idaho,Shoshone County,12542
+16081,Idaho,Teton County,11381
+16083,Idaho,Twin Falls County,85124
+16085,Idaho,Valley County,10687
+16087,Idaho,Washington County,10121
+17001,Illinois,Adams County,66234
+17003,Illinois,Alexander County,6315
+17005,Illinois,Bond County,16948
+17007,Illinois,Boone County,53513
+17009,Illinois,Brown County,6716
+17011,Illinois,Bureau County,33243
+17013,Illinois,Calhoun County,4833
+17015,Illinois,Carroll County,14518
+17017,Illinois,Cass County,12505
+17019,Illinois,Champaign County,209399
+17021,Illinois,Christian County,33102
+17023,Illinois,Clark County,15767
+17025,Illinois,Clay County,13269
+17027,Illinois,Clinton County,37614
+17029,Illinois,Coles County,51979
+17031,Illinois,Cook County,5211263
+17033,Illinois,Crawford County,18961
+17035,Illinois,Cumberland County,10908
+17037,Illinois,DeKalb County,104733
+17039,Illinois,De Witt County,15942
+17041,Illinois,Douglas County,19748
+17043,Illinois,DuPage County,930128
+17045,Illinois,Edgar County,17328
+17047,Illinois,Edwards County,6486
+17049,Illinois,Effingham County,34132
+17051,Illinois,Fayette County,21784
+17053,Illinois,Ford County,13280
+17055,Illinois,Franklin County,39041
+17057,Illinois,Fulton County,35110
+17059,Illinois,Gallatin County,5080
+17061,Illinois,Greene County,13174
+17063,Illinois,Grundy County,50586
+17065,Illinois,Hamilton County,8194
+17067,Illinois,Hancock County,18020
+17069,Illinois,Hardin County,4046
+17071,Illinois,Henderson County,6795
+17073,Illinois,Henry County,49328
+17075,Illinois,Iroquois County,27876
+17077,Illinois,Jackson County,58284
+17079,Illinois,Jasper County,9578
+17081,Illinois,Jefferson County,38179
+17083,Illinois,Jersey County,21941
+17085,Illinois,Jo Daviess County,21594
+17087,Illinois,Johnson County,12900
+17089,Illinois,Kane County,534667
+17091,Illinois,Kankakee County,109605
+17093,Illinois,Kendall County,126218
+17095,Illinois,Knox County,50638
+17097,Illinois,Lake County,703520
+17099,Illinois,LaSalle County,110067
+17101,Illinois,Lawrence County,16168
+17103,Illinois,Lee County,34406
+17105,Illinois,Livingston County,36518
+17107,Illinois,Logan County,29245
+17109,Illinois,McDonough County,30823
+17111,Illinois,McHenry County,309122
+17113,Illinois,McLean County,172290
+17115,Illinois,Macon County,105801
+17117,Illinois,Macoupin County,45446
+17119,Illinois,Madison County,265428
+17121,Illinois,Marion County,37902
+17123,Illinois,Marshall County,11730
+17125,Illinois,Mason County,13715
+17127,Illinois,Massac County,14344
+17129,Illinois,Menard County,12245
+17131,Illinois,Mercer County,15618
+17133,Illinois,Monroe County,34097
+17135,Illinois,Montgomery County,28790
+17137,Illinois,Morgan County,33798
+17139,Illinois,Moultrie County,14688
+17141,Illinois,Ogle County,51063
+17143,Illinois,Peoria County,183011
+17145,Illinois,Perry County,21285
+17147,Illinois,Piatt County,16445
+17149,Illinois,Pike County,15821
+17151,Illinois,Pope County,4325
+17153,Illinois,Pulaski County,5509
+17155,Illinois,Putnam County,5727
+17157,Illinois,Randolph County,32423
+17159,Illinois,Richland County,15901
+17161,Illinois,Rock Island County,144808
+17163,Illinois,St. Clair County,262479
+17165,Illinois,Saline County,24102
+17167,Illinois,Sangamon County,196452
+17169,Illinois,Schuyler County,7035
+17171,Illinois,Scott County,5002
+17173,Illinois,Shelby County,21719
+17175,Illinois,Stark County,5434
+17177,Illinois,Stephenson County,45054
+17179,Illinois,Tazewell County,133526
+17181,Illinois,Union County,17000
+17183,Illinois,Vermilion County,77909
+17185,Illinois,Wabash County,11489
+17187,Illinois,Warren County,17167
+17189,Illinois,Washington County,14030
+17191,Illinois,Wayne County,16495
+17193,Illinois,White County,13938
+17195,Illinois,Whiteside County,56118
+17197,Illinois,Will County,692661
+17199,Illinois,Williamson County,67328
+17201,Illinois,Winnebago County,284778
+17203,Illinois,Woodford County,38726
+18001,Indiana,Adams County,35491
+18003,Indiana,Allen County,372877
+18005,Indiana,Bartholomew County,82040
+18007,Indiana,Benton County,8613
+18009,Indiana,Blackford County,11976
+18011,Indiana,Boone County,65875
+18013,Indiana,Brown County,15035
+18015,Indiana,Carroll County,20039
+18017,Indiana,Cass County,37994
+18019,Indiana,Clark County,116973
+18021,Indiana,Clay County,26198
+18023,Indiana,Clinton County,32317
+18025,Indiana,Crawford County,10566
+18027,Indiana,Daviess County,33113
+18029,Indiana,Dearborn County,49741
+18031,Indiana,Decatur County,26737
+18033,Indiana,DeKalb County,42836
+18035,Indiana,Delaware County,115184
+18037,Indiana,Dubois County,42558
+18039,Indiana,Elkhart County,205032
+18041,Indiana,Fayette County,23209
+18043,Indiana,Floyd County,77071
+18045,Indiana,Fountain County,16505
+18047,Indiana,Franklin County,22619
+18049,Indiana,Fulton County,20059
+18051,Indiana,Gibson County,33576
+18053,Indiana,Grant County,66491
+18055,Indiana,Greene County,32177
+18057,Indiana,Hamilton County,323747
+18059,Indiana,Hancock County,74985
+18061,Indiana,Harrison County,39898
+18063,Indiana,Hendricks County,163685
+18065,Indiana,Henry County,48476
+18067,Indiana,Howard County,82363
+18069,Indiana,Huntington County,36337
+18071,Indiana,Jackson County,43884
+18073,Indiana,Jasper County,33447
+18075,Indiana,Jay County,20945
+18077,Indiana,Jefferson County,32089
+18079,Indiana,Jennings County,27626
+18081,Indiana,Johnson County,153897
+18083,Indiana,Knox County,37508
+18085,Indiana,Kosciusko County,79206
+18087,Indiana,LaGrange County,39303
+18089,Indiana,Lake County,485640
+18091,Indiana,LaPorte County,110029
+18093,Indiana,Lawrence County,45666
+18095,Indiana,Madison County,129498
+18097,Indiana,Marion County,950082
+18099,Indiana,Marshall County,46498
+18101,Indiana,Martin County,10215
+18103,Indiana,Miami County,35845
+18105,Indiana,Monroe County,146986
+18107,Indiana,Montgomery County,38525
+18109,Indiana,Morgan County,69713
+18111,Indiana,Newton County,14130
+18113,Indiana,Noble County,47452
+18115,Indiana,Ohio County,5828
+18117,Indiana,Orange County,19426
+18119,Indiana,Owen County,20839
+18121,Indiana,Parke County,16886
+18123,Indiana,Perry County,19081
+18125,Indiana,Pike County,12365
+18127,Indiana,Porter County,168404
+18129,Indiana,Posey County,25595
+18131,Indiana,Pulaski County,12534
+18133,Indiana,Putnam County,37702
+18135,Indiana,Randolph County,24922
+18137,Indiana,Ripley County,28442
+18139,Indiana,Rush County,16645
+18141,Indiana,St. Joseph County,270434
+18143,Indiana,Scott County,23870
+18145,Indiana,Shelby County,44395
+18147,Indiana,Spencer County,20394
+18149,Indiana,Starke County,22893
+18151,Indiana,Steuben County,34484
+18153,Indiana,Sullivan County,20746
+18155,Indiana,Switzerland County,10696
+18157,Indiana,Tippecanoe County,190587
+18159,Indiana,Tipton County,15128
+18161,Indiana,Union County,7200
+18163,Indiana,Vanderburgh County,181616
+18165,Indiana,Vermillion County,15505
+18167,Indiana,Vigo County,107516
+18169,Indiana,Wabash County,31443
+18171,Indiana,Warren County,8201
+18173,Indiana,Warrick County,62530
+18175,Indiana,Washington County,27827
+18177,Indiana,Wayne County,66185
+18179,Indiana,Wells County,27984
+18181,Indiana,White County,24182
+18183,Indiana,Whitley County,33756
+19001,Iowa,Adair County,7054
+19003,Iowa,Adams County,3686
+19005,Iowa,Allamakee County,13884
+19007,Iowa,Appanoose County,12352
+19009,Iowa,Audubon County,5578
+19011,Iowa,Benton County,25642
+19013,Iowa,Black Hawk County,132648
+19015,Iowa,Boone County,26484
+19017,Iowa,Bremer County,24911
+19019,Iowa,Buchanan County,21202
+19021,Iowa,Buena Vista County,20110
+19023,Iowa,Butler County,14606
+19025,Iowa,Calhoun County,9746
+19027,Iowa,Carroll County,20320
+19029,Iowa,Cass County,13145
+19031,Iowa,Cedar County,18543
+19033,Iowa,Cerro Gordo County,43006
+19035,Iowa,Cherokee County,11316
+19037,Iowa,Chickasaw County,12005
+19039,Iowa,Clarke County,9374
+19041,Iowa,Clay County,16170
+19043,Iowa,Clayton County,17637
+19045,Iowa,Clinton County,47010
+19047,Iowa,Crawford County,17056
+19049,Iowa,Dallas County,87235
+19051,Iowa,Davis County,8966
+19053,Iowa,Decatur County,7950
+19055,Iowa,Delaware County,17153
+19057,Iowa,Des Moines County,39417
+19059,Iowa,Dickinson County,17199
+19061,Iowa,Dubuque County,97041
+19063,Iowa,Emmet County,9432
+19065,Iowa,Fayette County,19796
+19067,Iowa,Floyd County,15744
+19069,Iowa,Franklin County,10164
+19071,Iowa,Fremont County,6948
+19073,Iowa,Greene County,8981
+19075,Iowa,Grundy County,12333
+19077,Iowa,Guthrie County,10670
+19079,Iowa,Hamilton County,15115
+19081,Iowa,Hancock County,10771
+19083,Iowa,Hardin County,17048
+19085,Iowa,Harrison County,14136
+19087,Iowa,Henry County,19863
+19089,Iowa,Howard County,9228
+19091,Iowa,Humboldt County,9564
+19093,Iowa,Ida County,6865
+19095,Iowa,Iowa County,16103
+19097,Iowa,Jackson County,19366
+19099,Iowa,Jasper County,36966
+19101,Iowa,Jefferson County,18422
+19103,Iowa,Johnson County,149210
+19105,Iowa,Jones County,20536
+19107,Iowa,Keokuk County,10153
+19109,Iowa,Kossuth County,14999
+19111,Iowa,Lee County,34295
+19113,Iowa,Linn County,224115
+19115,Iowa,Louisa County,11184
+19117,Iowa,Lucas County,8534
+19119,Iowa,Lyon County,11792
+19121,Iowa,Madison County,16013
+19123,Iowa,Mahaska County,22235
+19125,Iowa,Marion County,33105
+19127,Iowa,Marshall County,40288
+19129,Iowa,Mills County,15068
+19131,Iowa,Mitchell County,10631
+19133,Iowa,Monona County,8740
+19135,Iowa,Monroe County,7845
+19137,Iowa,Montgomery County,10137
+19139,Iowa,Muscatine County,42880
+19141,Iowa,O'Brien County,13801
+19143,Iowa,Osceola County,6045
+19145,Iowa,Page County,15224
+19147,Iowa,Palo Alto County,9092
+19149,Iowa,Plymouth County,25220
+19151,Iowa,Pocahontas County,6846
+19153,Iowa,Polk County,481830
+19155,Iowa,Pottawattamie County,93386
+19157,Iowa,Poweshiek County,18314
+19159,Iowa,Ringgold County,5034
+19161,Iowa,Sac County,9817
+19163,Iowa,Scott County,172509
+19165,Iowa,Shelby County,11628
+19167,Iowa,Sioux County,34860
+19169,Iowa,Story County,97502
+19171,Iowa,Tama County,17058
+19173,Iowa,Taylor County,6178
+19175,Iowa,Union County,12450
+19177,Iowa,Van Buren County,7157
+19179,Iowa,Wapello County,35044
+19181,Iowa,Warren County,50163
+19183,Iowa,Washington County,22281
+19185,Iowa,Wayne County,6476
+19187,Iowa,Webster County,36605
+19189,Iowa,Winnebago County,10587
+19191,Iowa,Winneshiek County,20201
+19193,Iowa,Woodbury County,102429
+19195,Iowa,Worth County,7469
+19197,Iowa,Wright County,12784
+20001,Kansas,Allen County,12519
+20003,Kansas,Anderson County,7833
+20005,Kansas,Atchison County,16332
+20007,Kansas,Barber County,4586
+20009,Kansas,Barton County,26476
+20011,Kansas,Bourbon County,14754
+20013,Kansas,Brown County,9641
+20015,Kansas,Butler County,66878
+20017,Kansas,Chase County,2683
+20019,Kansas,Chautauqua County,3363
+20021,Kansas,Cherokee County,20115
+20023,Kansas,Cheyenne County,2683
+20025,Kansas,Clark County,2004
+20027,Kansas,Clay County,7958
+20029,Kansas,Cloud County,8991
+20031,Kansas,Coffey County,8224
+20033,Kansas,Comanche County,1790
+20035,Kansas,Cowley County,35361
+20037,Kansas,Crawford County,39034
+20039,Kansas,Decatur County,2885
+20041,Kansas,Dickinson County,18902
+20043,Kansas,Doniphan County,7727
+20045,Kansas,Douglas County,120793
+20047,Kansas,Edwards County,2893
+20049,Kansas,Elk County,2498
+20051,Kansas,Ellis County,28689
+20053,Kansas,Ellsworth County,6330
+20055,Kansas,Finney County,37084
+20057,Kansas,Ford County,34381
+20059,Kansas,Franklin County,25733
+20061,Kansas,Geary County,33855
+20063,Kansas,Gove County,2631
+20065,Kansas,Graham County,2495
+20067,Kansas,Grant County,7526
+20069,Kansas,Gray County,5958
+20071,Kansas,Greeley County,1249
+20073,Kansas,Greenwood County,6123
+20075,Kansas,Hamilton County,2640
+20077,Kansas,Harper County,5590
+20079,Kansas,Harvey County,34544
+20081,Kansas,Haskell County,4053
+20083,Kansas,Hodgeman County,1842
+20085,Kansas,Jackson County,13318
+20087,Kansas,Jefferson County,18998
+20089,Kansas,Jewell County,2850
+20091,Kansas,Johnson County,591178
+20093,Kansas,Kearny County,3960
+20095,Kansas,Kingman County,7360
+20097,Kansas,Kiowa County,2485
+20099,Kansas,Labette County,20145
+20101,Kansas,Lane County,1559
+20103,Kansas,Leavenworth County,81095
+20105,Kansas,Lincoln County,3043
+20107,Kansas,Linn County,9726
+20109,Kansas,Logan County,2821
+20111,Kansas,Lyon County,33392
+20113,Kansas,McPherson County,28708
+20115,Kansas,Marion County,11986
+20117,Kansas,Marshall County,9745
+20119,Kansas,Meade County,4303
+20121,Kansas,Miami County,33461
+20123,Kansas,Mitchell County,6128
+20125,Kansas,Montgomery County,32556
+20127,Kansas,Morris County,5455
+20129,Kansas,Morton County,2740
+20131,Kansas,Nemaha County,10118
+20133,Kansas,Neosho County,16015
+20135,Kansas,Ness County,2869
+20137,Kansas,Norton County,5441
+20139,Kansas,Osage County,15772
+20141,Kansas,Osborne County,3610
+20143,Kansas,Ottawa County,5863
+20145,Kansas,Pawnee County,6680
+20147,Kansas,Phillips County,5370
+20149,Kansas,Pottawatomie County,23908
+20151,Kansas,Pratt County,9547
+20153,Kansas,Rawlins County,2497
+20155,Kansas,Reno County,62510
+20157,Kansas,Republic County,4691
+20159,Kansas,Rice County,9660
+20161,Kansas,Riley County,74172
+20163,Kansas,Rooks County,5043
+20165,Kansas,Rush County,3103
+20167,Kansas,Russell County,6915
+20169,Kansas,Saline County,54734
+20171,Kansas,Scott County,4961
+20173,Kansas,Sedgwick County,513687
+20175,Kansas,Seward County,22159
+20177,Kansas,Shawnee County,178187
+20179,Kansas,Sheridan County,2527
+20181,Kansas,Sherman County,5930
+20183,Kansas,Smith County,3668
+20185,Kansas,Stafford County,4207
+20187,Kansas,Stanton County,2060
+20189,Kansas,Stevens County,5612
+20191,Kansas,Sumner County,23159
+20193,Kansas,Thomas County,7788
+20195,Kansas,Trego County,2884
+20197,Kansas,Wabaunsee County,6874
+20199,Kansas,Wallace County,1524
+20201,Kansas,Washington County,5485
+20203,Kansas,Wichita County,2125
+20205,Kansas,Wilson County,8675
+20207,Kansas,Woodson County,3147
+20209,Kansas,Wyandotte County,165288
+21001,Kentucky,Adair County,19485
+21003,Kentucky,Allen County,20933
+21005,Kentucky,Anderson County,22544
+21007,Kentucky,Ballard County,8039
+21009,Kentucky,Barren County,43801
+21011,Kentucky,Bath County,12378
+21013,Kentucky,Bell County,26894
+21015,Kentucky,Boone County,130728
+21017,Kentucky,Bourbon County,20029
+21019,Kentucky,Boyd County,47979
+21021,Kentucky,Boyle County,29924
+21023,Kentucky,Bracken County,8267
+21025,Kentucky,Breathitt County,12946
+21027,Kentucky,Breckinridge County,20111
+21029,Kentucky,Bullitt County,80246
+21031,Kentucky,Butler County,12831
+21033,Kentucky,Caldwell County,12639
+21035,Kentucky,Calloway County,38919
+21037,Kentucky,Campbell County,92488
+21039,Kentucky,Carlisle County,4846
+21041,Kentucky,Carroll County,10713
+21043,Kentucky,Carter County,27144
+21045,Kentucky,Casey County,15750
+21047,Kentucky,Christian County,70416
+21049,Kentucky,Clark County,36046
+21051,Kentucky,Clay County,20366
+21053,Kentucky,Clinton County,10276
+21055,Kentucky,Crittenden County,9084
+21057,Kentucky,Cumberland County,6706
+21059,Kentucky,Daviess County,100374
+21061,Kentucky,Edmonson County,12226
+21063,Kentucky,Elliott County,7523
+21065,Kentucky,Estill County,14277
+21067,Kentucky,Fayette County,321959
+21069,Kentucky,Fleming County,14446
+21071,Kentucky,Floyd County,36271
+21073,Kentucky,Franklin County,50485
+21075,Kentucky,Fulton County,6192
+21077,Kentucky,Gallatin County,8776
+21079,Kentucky,Garrard County,17523
+21081,Kentucky,Grant County,24984
+21083,Kentucky,Graves County,37121
+21085,Kentucky,Grayson County,26358
+21087,Kentucky,Green County,11065
+21089,Kentucky,Greenup County,35518
+21091,Kentucky,Hancock County,8801
+21093,Kentucky,Hardin County,108071
+21095,Kentucky,Harlan County,26713
+21097,Kentucky,Harrison County,18781
+21099,Kentucky,Hart County,18757
+21101,Kentucky,Henderson County,45928
+21103,Kentucky,Henry County,16006
+21105,Kentucky,Hickman County,4520
+21107,Kentucky,Hopkins County,45547
+21109,Kentucky,Jackson County,13431
+21111,Kentucky,Jefferson County,771158
+21113,Kentucky,Jessamine County,53375
+21115,Kentucky,Johnson County,22594
+21117,Kentucky,Kenton County,165399
+21119,Kentucky,Knott County,15291
+21121,Kentucky,Knox County,31227
+21123,Kentucky,Larue County,14205
+21125,Kentucky,Laurel County,60174
+21127,Kentucky,Lawrence County,15719
+21129,Kentucky,Lee County,6570
+21131,Kentucky,Leslie County,10334
+21133,Kentucky,Letcher County,22339
+21135,Kentucky,Lewis County,13339
+21137,Kentucky,Lincoln County,24456
+21139,Kentucky,Livingston County,9269
+21141,Kentucky,Logan County,27060
+21143,Kentucky,Lyon County,8082
+21145,Kentucky,McCracken County,65385
+21147,Kentucky,McCreary County,17465
+21149,Kentucky,McLean County,9201
+21151,Kentucky,Madison County,91226
+21153,Kentucky,Magoffin County,12538
+21155,Kentucky,Marion County,19395
+21157,Kentucky,Marshall County,31382
+21159,Kentucky,Martin County,11452
+21161,Kentucky,Mason County,17174
+21163,Kentucky,Meade County,28154
+21165,Kentucky,Menifee County,6455
+21167,Kentucky,Mercer County,21521
+21169,Kentucky,Metcalfe County,10107
+21171,Kentucky,Monroe County,10659
+21173,Kentucky,Montgomery County,27928
+21175,Kentucky,Morgan County,13188
+21177,Kentucky,Muhlenberg County,30816
+21179,Kentucky,Nelson County,45640
+21181,Kentucky,Nicholas County,7130
+21183,Kentucky,Ohio County,24182
+21185,Kentucky,Oldham County,66415
+21187,Kentucky,Owen County,10765
+21189,Kentucky,Owsley County,4435
+21191,Kentucky,Pendleton County,14573
+21193,Kentucky,Perry County,26553
+21195,Kentucky,Pike County,58883
+21197,Kentucky,Powell County,12374
+21199,Kentucky,Pulaski County,64449
+21201,Kentucky,Robertson County,2134
+21203,Kentucky,Rockcastle County,16698
+21205,Kentucky,Rowan County,24517
+21207,Kentucky,Russell County,17775
+21209,Kentucky,Scott County,54873
+21211,Kentucky,Shelby County,47421
+21213,Kentucky,Simpson County,18108
+21215,Kentucky,Spencer County,18507
+21217,Kentucky,Taylor County,25472
+21219,Kentucky,Todd County,12243
+21221,Kentucky,Trigg County,14444
+21223,Kentucky,Trimble County,8561
+21225,Kentucky,Union County,14668
+21227,Kentucky,Warren County,128845
+21229,Kentucky,Washington County,12126
+21231,Kentucky,Wayne County,20716
+21233,Kentucky,Webster County,13018
+21235,Kentucky,Whitley County,36214
+21237,Kentucky,Wolfe County,7264
+21239,Kentucky,Woodford County,26368
+22001,Louisiana,Acadia Parish,62590
+22003,Louisiana,Allen Parish,25621
+22005,Louisiana,Ascension Parish,122948
+22007,Louisiana,Assumption Parish,22526
+22009,Louisiana,Avoyelles Parish,40980
+22011,Louisiana,Beauregard Parish,36928
+22013,Louisiana,Bienville Parish,13638
+22015,Louisiana,Bossier Parish,127634
+22017,Louisiana,Caddo Parish,246581
+22019,Louisiana,Calcasieu Parish,202445
+22021,Louisiana,Caldwell Parish,9950
+22023,Louisiana,Cameron Parish,6912
+22025,Louisiana,Catahoula Parish,9875
+22027,Louisiana,Claiborne Parish,15969
+22029,Louisiana,Concordia Parish,19866
+22031,Louisiana,De Soto Parish,27340
+22033,Louisiana,East Baton Rouge Parish,446268
+22035,Louisiana,East Carroll Parish,7126
+22037,Louisiana,East Feliciana Parish,19412
+22039,Louisiana,Evangeline Parish,33708
+22041,Louisiana,Franklin Parish,20260
+22043,Louisiana,Grant Parish,22336
+22045,Louisiana,Iberia Parish,72176
+22047,Louisiana,Iberville Parish,33027
+22049,Louisiana,Jackson Parish,15846
+22051,Louisiana,Jefferson Parish,439036
+22053,Louisiana,Jefferson Davis Parish,31477
+22055,Louisiana,Lafayette Parish,242485
+22057,Louisiana,Lafourche Parish,98426
+22059,Louisiana,LaSalle Parish,14933
+22061,Louisiana,Lincoln Parish,47744
+22063,Louisiana,Livingston Parish,138228
+22065,Louisiana,Madison Parish,11316
+22067,Louisiana,Morehouse Parish,25641
+22069,Louisiana,Natchitoches Parish,39021
+22071,Louisiana,Orleans Parish,393292
+22073,Louisiana,Ouachita Parish,155874
+22075,Louisiana,Plaquemines Parish,23348
+22077,Louisiana,Pointe Coupee Parish,22268
+22079,Louisiana,Rapides Parish,131648
+22081,Louisiana,Red River Parish,8536
+22083,Louisiana,Richland Parish,20411
+22085,Louisiana,Sabine Parish,24018
+22087,Louisiana,St. Bernard Parish,46202
+22089,Louisiana,St. Charles Parish,52749
+22091,Louisiana,St. Helena Parish,10363
+22093,Louisiana,St. James Parish,21367
+22095,Louisiana,St. John the Baptist Parish,43441
+22097,Louisiana,St. Landry Parish,83497
+22099,Louisiana,St. Martin Parish,54171
+22101,Louisiana,St. Mary Parish,50973
+22103,Louisiana,St. Tammany Parish,256327
+22105,Louisiana,Tangipahoa Parish,132497
+22107,Louisiana,Tensas Parish,4615
+22109,Louisiana,Terrebonne Parish,112086
+22111,Louisiana,Union Parish,22571
+22113,Louisiana,Vermilion Parish,60136
+22115,Louisiana,Vernon Parish,50726
+22117,Louisiana,Washington Parish,46633
+22119,Louisiana,Webster Parish,39378
+22121,Louisiana,West Baton Rouge Parish,26265
+22123,Louisiana,West Carroll Parish,10981
+22125,Louisiana,West Feliciana Parish,15380
+22127,Louisiana,Winn Parish,14311
+23001,Maine,Androscoggin County,107651
+23003,Maine,Aroostook County,67653
+23005,Maine,Cumberland County,292500
+23007,Maine,Franklin County,29988
+23009,Maine,Hancock County,54497
+23011,Maine,Kennebec County,121821
+23013,Maine,Knox County,39790
+23015,Maine,Lincoln County,34204
+23017,Maine,Oxford County,57439
+23019,Maine,Penobscot County,151957
+23021,Maine,Piscataquis County,16773
+23023,Maine,Sagadahoc County,35392
+23025,Maine,Somerset County,50626
+23027,Maine,Waldo County,39832
+23029,Maine,Washington County,31593
+23031,Maine,York County,204191
+24001,Maryland,Allegany County,71615
+24003,Maryland,Anne Arundel County,573235
+24005,Maryland,Baltimore County,832468
+24009,Maryland,Calvert County,91502
+24011,Maryland,Caroline County,33193
+24013,Maryland,Carroll County,167781
+24015,Maryland,Cecil County,102746
+24017,Maryland,Charles County,159700
+24019,Maryland,Dorchester County,32162
+24021,Maryland,Frederick County,252022
+24023,Maryland,Garrett County,29233
+24025,Maryland,Harford County,252160
+24027,Maryland,Howard County,321113
+24029,Maryland,Kent County,19384
+24031,Maryland,Montgomery County,1058810
+24033,Maryland,Prince George's County,912756
+24035,Maryland,Queen Anne's County,49770
+24037,Maryland,St. Mary's County,112667
+24039,Maryland,Somerset County,25918
+24041,Maryland,Talbot County,37103
+24043,Maryland,Washington County,150578
+24045,Maryland,Wicomico County,102923
+24047,Maryland,Worcester County,51690
+24510,Maryland,Baltimore city,611648
+25001,Massachusetts,Barnstable County,213444
+25003,Massachusetts,Berkshire County,126313
+25005,Massachusetts,Bristol County,561483
+25007,Massachusetts,Dukes County,17325
+25009,Massachusetts,Essex County,785205
+25011,Massachusetts,Franklin County,70702
+25013,Massachusetts,Hampden County,469818
+25015,Massachusetts,Hampshire County,161834
+25017,Massachusetts,Middlesex County,1602947
+25019,Massachusetts,Nantucket County,11229
+25021,Massachusetts,Norfolk County,700322
+25023,Massachusetts,Plymouth County,515142
+25025,Massachusetts,Suffolk County,797939
+25027,Massachusetts,Worcester County,826116
+26001,Michigan,Alcona County,10351
+26003,Michigan,Alger County,9121
+26005,Michigan,Allegan County,116447
+26007,Michigan,Alpena County,28462
+26009,Michigan,Antrim County,23292
+26011,Michigan,Arenac County,15045
+26013,Michigan,Baraga County,8441
+26015,Michigan,Barry County,60586
+26017,Michigan,Bay County,104239
+26019,Michigan,Benzie County,17573
+26021,Michigan,Berrien County,154259
+26023,Michigan,Branch County,43410
+26025,Michigan,Calhoun County,134128
+26027,Michigan,Cass County,51381
+26029,Michigan,Charlevoix County,26139
+26031,Michigan,Cheboygan County,25369
+26033,Michigan,Chippewa County,37711
+26035,Michigan,Clare County,30653
+26037,Michigan,Clinton County,78443
+26039,Michigan,Crawford County,13907
+26041,Michigan,Delta County,35965
+26043,Michigan,Dickinson County,25415
+26045,Michigan,Eaton County,109027
+26047,Michigan,Emmet County,33193
+26049,Michigan,Genesee County,407385
+26051,Michigan,Gladwin County,25234
+26053,Michigan,Gogebic County,15342
+26055,Michigan,Grand Traverse County,91807
+26057,Michigan,Gratiot County,41018
+26059,Michigan,Hillsdale County,45879
+26061,Michigan,Houghton County,36305
+26063,Michigan,Huron County,31280
+26065,Michigan,Ingham County,290186
+26067,Michigan,Ionia County,64291
+26069,Michigan,Iosco County,25162
+26071,Michigan,Iron County,11124
+26073,Michigan,Isabella County,71063
+26075,Michigan,Jackson County,158640
+26077,Michigan,Kalamazoo County,262985
+26079,Michigan,Kalkaska County,17634
+26081,Michigan,Kent County,648594
+26083,Michigan,Keweenaw County,2105
+26085,Michigan,Lake County,12013
+26087,Michigan,Lapeer County,88174
+26089,Michigan,Leelanau County,21657
+26091,Michigan,Lenawee County,98623
+26093,Michigan,Livingston County,189651
+26095,Michigan,Luce County,6358
+26097,Michigan,Mackinac County,10712
+26099,Michigan,Macomb County,871375
+26101,Michigan,Manistee County,24427
+26103,Michigan,Marquette County,66502
+26105,Michigan,Mason County,29073
+26107,Michigan,Mecosta County,43391
+26109,Michigan,Menominee County,23046
+26111,Michigan,Midland County,83411
+26113,Michigan,Missaukee County,14998
+26115,Michigan,Monroe County,149649
+26117,Michigan,Montcalm County,63550
+26119,Michigan,Montmorency County,9250
+26121,Michigan,Muskegon County,173693
+26123,Michigan,Newaygo County,48242
+26125,Michigan,Oakland County,1250836
+26127,Michigan,Oceana County,26442
+26129,Michigan,Ogemaw County,20981
+26131,Michigan,Ontonagon County,5881
+26133,Michigan,Osceola County,23260
+26135,Michigan,Oscoda County,8287
+26137,Michigan,Otsego County,24538
+26139,Michigan,Ottawa County,286383
+26141,Michigan,Presque Isle County,12791
+26143,Michigan,Roscommon County,23895
+26145,Michigan,Saginaw County,191934
+26147,Michigan,St. Clair County,159350
+26149,Michigan,St. Joseph County,60947
+26151,Michigan,Sanilac County,41269
+26153,Michigan,Schoolcraft County,8049
+26155,Michigan,Shiawassee County,68446
+26157,Michigan,Tuscola County,52764
+26159,Michigan,Van Buren County,75353
+26161,Michigan,Washtenaw County,367627
+26163,Michigan,Wayne County,1753616
+26165,Michigan,Wexford County,33276
+27001,Minnesota,Aitkin County,15829
+27003,Minnesota,Anoka County,351373
+27005,Minnesota,Becker County,34098
+27007,Minnesota,Beltrami County,46513
+27009,Minnesota,Benton County,39937
+27011,Minnesota,Big Stone County,5026
+27013,Minnesota,Blue Earth County,66973
+27015,Minnesota,Brown County,25194
+27017,Minnesota,Carlton County,35498
+27019,Minnesota,Carver County,102119
+27021,Minnesota,Cass County,29355
+27023,Minnesota,Chippewa County,11980
+27025,Minnesota,Chisago County,55308
+27027,Minnesota,Clay County,63569
+27029,Minnesota,Clearwater County,8878
+27031,Minnesota,Cook County,5398
+27033,Minnesota,Cottonwood County,11295
+27035,Minnesota,Crow Wing County,64424
+27037,Minnesota,Dakota County,421751
+27039,Minnesota,Dodge County,20762
+27041,Minnesota,Douglas County,37575
+27043,Minnesota,Faribault County,13784
+27045,Minnesota,Fillmore County,20980
+27047,Minnesota,Freeborn County,30535
+27049,Minnesota,Goodhue County,46304
+27051,Minnesota,Grant County,5941
+27053,Minnesota,Hennepin County,1252024
+27055,Minnesota,Houston County,18660
+27057,Minnesota,Hubbard County,21018
+27059,Minnesota,Isanti County,39582
+27061,Minnesota,Itasca County,45137
+27063,Minnesota,Jackson County,9946
+27065,Minnesota,Kanabec County,16024
+27067,Minnesota,Kandiyohi County,42743
+27069,Minnesota,Kittson County,4250
+27071,Minnesota,Koochiching County,12528
+27073,Minnesota,Lac qui Parle County,6685
+27075,Minnesota,Lake County,10524
+27077,Minnesota,Lake of the Woods County,3744
+27079,Minnesota,Le Sueur County,28111
+27081,Minnesota,Lincoln County,5678
+27083,Minnesota,Lyon County,25831
+27085,Minnesota,McLeod County,35884
+27087,Minnesota,Mahnomen County,5596
+27089,Minnesota,Marshall County,9356
+27091,Minnesota,Martin County,19850
+27093,Minnesota,Meeker County,23131
+27095,Minnesota,Mille Lacs County,25872
+27097,Minnesota,Morrison County,33064
+27099,Minnesota,Mower County,39566
+27101,Minnesota,Murray County,8346
+27103,Minnesota,Nicollet County,33966
+27105,Minnesota,Nobles County,21944
+27107,Minnesota,Norman County,6597
+27109,Minnesota,Olmsted County,154930
+27111,Minnesota,Otter Tail County,58345
+27113,Minnesota,Pennington County,14238
+27115,Minnesota,Pine County,29203
+27117,Minnesota,Pipestone County,9087
+27119,Minnesota,Polk County,31619
+27121,Minnesota,Pope County,10970
+27123,Minnesota,Ramsey County,547974
+27125,Minnesota,Red Lake County,4030
+27127,Minnesota,Redwood County,15272
+27129,Minnesota,Renville County,14645
+27131,Minnesota,Rice County,65968
+27133,Minnesota,Rock County,9490
+27135,Minnesota,Roseau County,15327
+27137,Minnesota,St. Louis County,200000
+27139,Minnesota,Scott County,145827
+27141,Minnesota,Sherburne County,94570
+27143,Minnesota,Sibley County,14869
+27145,Minnesota,Stearns County,157822
+27147,Minnesota,Steele County,36887
+27149,Minnesota,Stevens County,9634
+27151,Minnesota,Swift County,9407
+27153,Minnesota,Todd County,24515
+27155,Minnesota,Traverse County,3319
+27157,Minnesota,Wabasha County,21608
+27159,Minnesota,Wadena County,13669
+27161,Minnesota,Waseca County,18787
+27163,Minnesota,Washington County,256348
+27165,Minnesota,Watonwan County,10840
+27167,Minnesota,Wilkin County,6324
+27169,Minnesota,Winona County,50873
+27171,Minnesota,Wright County,134286
+27173,Minnesota,Yellow Medicine County,9867
+28001,Mississippi,Adams County,31003
+28003,Mississippi,Alcorn County,37210
+28005,Mississippi,Amite County,12447
+28007,Mississippi,Attala County,18477
+28009,Mississippi,Benton County,8312
+28011,Mississippi,Bolivar County,31945
+28013,Mississippi,Calhoun County,14492
+28015,Mississippi,Carroll County,10139
+28017,Mississippi,Chickasaw County,17146
+28019,Mississippi,Choctaw County,8278
+28021,Mississippi,Claiborne County,8950
+28023,Mississippi,Clarke County,15828
+28025,Mississippi,Clay County,19640
+28027,Mississippi,Coahoma County,23154
+28029,Mississippi,Copiah County,28516
+28031,Mississippi,Covington County,19079
+28033,Mississippi,DeSoto County,178751
+28035,Mississippi,Forrest County,75471
+28037,Mississippi,Franklin County,7765
+28039,Mississippi,George County,24094
+28041,Mississippi,Greene County,13345
+28043,Mississippi,Grenada County,21087
+28045,Mississippi,Hancock County,47053
+28047,Mississippi,Harrison County,205027
+28049,Mississippi,Hinds County,239497
+28051,Mississippi,Holmes County,17739
+28053,Mississippi,Humphreys County,8342
+28055,Mississippi,Issaquena County,1339
+28057,Mississippi,Itawamba County,23508
+28059,Mississippi,Jackson County,142152
+28061,Mississippi,Jasper County,16582
+28063,Mississippi,Jefferson County,7262
+28065,Mississippi,Jefferson Davis County,11314
+28067,Mississippi,Jones County,67930
+28069,Mississippi,Kemper County,9883
+28071,Mississippi,Lafayette County,54374
+28073,Mississippi,Lamar County,61374
+28075,Mississippi,Lauderdale County,76155
+28077,Mississippi,Lawrence County,12643
+28079,Mississippi,Leake County,22715
+28081,Mississippi,Lee County,84933
+28083,Mississippi,Leflore County,29223
+28085,Mississippi,Lincoln County,34347
+28087,Mississippi,Lowndes County,59186
+28089,Mississippi,Madison County,104618
+28091,Mississippi,Marion County,25069
+28093,Mississippi,Marshall County,35619
+28095,Mississippi,Monroe County,35872
+28097,Mississippi,Montgomery County,10173
+28099,Mississippi,Neshoba County,29369
+28101,Mississippi,Newton County,21185
+28103,Mississippi,Noxubee County,10742
+28105,Mississippi,Oktibbeha County,49799
+28107,Mississippi,Panola County,33994
+28109,Mississippi,Pearl River County,55270
+28111,Mississippi,Perry County,12032
+28113,Mississippi,Pike County,39468
+28115,Mississippi,Pontotoc County,31640
+28117,Mississippi,Prentiss County,25261
+28119,Mississippi,Quitman County,7269
+28121,Mississippi,Rankin County,152080
+28123,Mississippi,Scott County,28420
+28125,Mississippi,Sharkey County,4435
+28127,Mississippi,Simpson County,26947
+28129,Mississippi,Smith County,16078
+28131,Mississippi,Stone County,18112
+28133,Mississippi,Sunflower County,25981
+28135,Mississippi,Tallahatchie County,14125
+28137,Mississippi,Tate County,28441
+28139,Mississippi,Tippah County,21969
+28141,Mississippi,Tishomingo County,19542
+28143,Mississippi,Tunica County,10024
+28145,Mississippi,Union County,28556
+28147,Mississippi,Walthall County,14499
+28149,Mississippi,Warren County,46768
+28151,Mississippi,Washington County,46221
+28153,Mississippi,Wayne County,20446
+28155,Mississippi,Webster County,9765
+28157,Mississippi,Wilkinson County,8804
+28159,Mississippi,Winston County,18246
+28161,Mississippi,Yalobusha County,12497
+28163,Mississippi,Yazoo County,27057
+29001,Missouri,Adair County,25377
+29003,Missouri,Andrew County,17555
+29005,Missouri,Atchison County,5275
+29007,Missouri,Audrain County,25641
+29009,Missouri,Barry County,35668
+29011,Missouri,Barton County,11850
+29013,Missouri,Bates County,16334
+29015,Missouri,Benton County,19074
+29017,Missouri,Bollinger County,12306
+29019,Missouri,Boone County,178271
+29021,Missouri,Buchanan County,89065
+29023,Missouri,Butler County,42666
+29025,Missouri,Caldwell County,9100
+29027,Missouri,Callaway County,45032
+29029,Missouri,Camden County,45632
+29031,Missouri,Cape Girardeau County,78161
+29033,Missouri,Carroll County,8796
+29035,Missouri,Carter County,6169
+29037,Missouri,Cass County,103724
+29039,Missouri,Cedar County,14073
+29041,Missouri,Chariton County,7480
+29043,Missouri,Christian County,85432
+29045,Missouri,Clark County,6723
+29047,Missouri,Clay County,242874
+29049,Missouri,Clinton County,20554
+29051,Missouri,Cole County,76708
+29053,Missouri,Cooper County,17644
+29055,Missouri,Crawford County,24102
+29057,Missouri,Dade County,7588
+29059,Missouri,Dallas County,16673
+29061,Missouri,Daviess County,8361
+29063,Missouri,DeKalb County,12588
+29065,Missouri,Dent County,15480
+29067,Missouri,Douglas County,13300
+29069,Missouri,Dunklin County,30119
+29071,Missouri,Franklin County,103330
+29073,Missouri,Gasconade County,14726
+29075,Missouri,Gentry County,6665
+29077,Missouri,Greene County,289805
+29079,Missouri,Grundy County,9949
+29081,Missouri,Harrison County,8524
+29083,Missouri,Henry County,21718
+29085,Missouri,Hickory County,9475
+29087,Missouri,Holt County,4413
+29089,Missouri,Howard County,10139
+29091,Missouri,Howell County,40103
+29093,Missouri,Iron County,10226
+29095,Missouri,Jackson County,698895
+29097,Missouri,Jasper County,120217
+29099,Missouri,Jefferson County,223810
+29101,Missouri,Johnson County,53897
+29103,Missouri,Knox County,3977
+29105,Missouri,Laclede County,35443
+29107,Missouri,Lafayette County,32641
+29109,Missouri,Lawrence County,38434
+29111,Missouri,Lewis County,9967
+29113,Missouri,Lincoln County,56183
+29115,Missouri,Linn County,12194
+29117,Missouri,Livingston County,15173
+29119,Missouri,McDonald County,22828
+29121,Missouri,Macon County,15251
+29123,Missouri,Madison County,12243
+29125,Missouri,Maries County,8867
+29127,Missouri,Marion County,28634
+29129,Missouri,Mercer County,3678
+29131,Missouri,Miller County,25228
+29133,Missouri,Mississippi County,13586
+29135,Missouri,Moniteau County,16063
+29137,Missouri,Monroe County,8612
+29139,Missouri,Montgomery County,11438
+29141,Missouri,Morgan County,20145
+29143,Missouri,New Madrid County,17582
+29145,Missouri,Newton County,58290
+29147,Missouri,Nodaway County,22472
+29149,Missouri,Oregon County,10558
+29151,Missouri,Osage County,13662
+29153,Missouri,Ozark County,9186
+29155,Missouri,Pemiscot County,16826
+29157,Missouri,Perry County,19225
+29159,Missouri,Pettis County,42558
+29161,Missouri,Phelps County,44744
+29163,Missouri,Pike County,18567
+29165,Missouri,Platte County,101187
+29167,Missouri,Polk County,31794
+29169,Missouri,Pulaski County,52059
+29171,Missouri,Putnam County,4811
+29173,Missouri,Ralls County,10224
+29175,Missouri,Randolph County,24945
+29177,Missouri,Ray County,22855
+29179,Missouri,Reynolds County,6275
+29181,Missouri,Ripley County,13564
+29183,Missouri,St. Charles County,395504
+29185,Missouri,St. Clair County,9362
+29186,Missouri,Ste. Genevieve County,17843
+29187,Missouri,St. Francois County,66705
+29189,Missouri,St. Louis County,996726
+29195,Missouri,Saline County,22660
+29197,Missouri,Schuyler County,4508
+29199,Missouri,Scotland County,4963
+29201,Missouri,Scott County,38541
+29203,Missouri,Shannon County,8249
+29205,Missouri,Shelby County,6021
+29207,Missouri,Stoddard County,29369
+29209,Missouri,Stone County,31699
+29211,Missouri,Sullivan County,6229
+29213,Missouri,Taney County,55355
+29215,Missouri,Texas County,25735
+29217,Missouri,Vernon County,20437
+29219,Missouri,Warren County,34373
+29221,Missouri,Washington County,25022
+29223,Missouri,Wayne County,13296
+29225,Missouri,Webster County,38665
+29227,Missouri,Worth County,2057
+29229,Missouri,Wright County,18331
+29510,Missouri,St. Louis city,308626
+30001,Montana,Beaverhead County,9434
+30003,Montana,Big Horn County,13360
+30005,Montana,Blaine County,6708
+30007,Montana,Broadwater County,5936
+30009,Montana,Carbon County,10696
+30011,Montana,Carter County,1222
+30013,Montana,Cascade County,81654
+30015,Montana,Chouteau County,5765
+30017,Montana,Custer County,11721
+30019,Montana,Daniels County,1737
+30021,Montana,Dawson County,8950
+30023,Montana,Deer Lodge County,9106
+30025,Montana,Fallon County,3009
+30027,Montana,Fergus County,11291
+30029,Montana,Flathead County,100000
+30031,Montana,Gallatin County,107810
+30033,Montana,Garfield County,1293
+30035,Montana,Glacier County,13640
+30037,Montana,Golden Valley County,822
+30039,Montana,Granite County,3358
+30041,Montana,Hill County,16463
+30043,Montana,Jefferson County,11891
+30045,Montana,Judith Basin County,1961
+30047,Montana,Lake County,30273
+30049,Montana,Lewis and Clark County,67773
+30051,Montana,Liberty County,2427
+30053,Montana,Lincoln County,19440
+30055,Montana,McCone County,1718
+30057,Montana,Madison County,8175
+30059,Montana,Meagher County,1851
+30061,Montana,Mineral County,4255
+30063,Montana,Missoula County,117441
+30065,Montana,Musselshell County,4639
+30067,Montana,Park County,16353
+30069,Montana,Petroleum County,523
+30071,Montana,Phillips County,4119
+30073,Montana,Pondera County,5960
+30075,Montana,Powder River County,1752
+30077,Montana,Powell County,6795
+30079,Montana,Prairie County,1109
+30081,Montana,Ravalli County,42563
+30083,Montana,Richland County,11039
+30085,Montana,Roosevelt County,11098
+30087,Montana,Rosebud County,9248
+30089,Montana,Sanders County,11711
+30091,Montana,Sheridan County,3469
+30093,Montana,Silver Bow County,34602
+30095,Montana,Stillwater County,9419
+30097,Montana,Sweet Grass County,3691
+30099,Montana,Teton County,6085
+30101,Montana,Toole County,4886
+30103,Montana,Treasure County,679
+30105,Montana,Valley County,7433
+30107,Montana,Wheatland County,2140
+30109,Montana,Wibaux County,1020
+30111,Montana,Yellowstone County,158980
+31001,Nebraska,Adams County,31678
+31003,Nebraska,Antelope County,6362
+31005,Nebraska,Arthur County,457
+31007,Nebraska,Banner County,742
+31009,Nebraska,Blaine County,482
+31011,Nebraska,Boone County,5352
+31013,Nebraska,Box Butte County,10886
+31015,Nebraska,Boyd County,1977
+31017,Nebraska,Brown County,3014
+31019,Nebraska,Buffalo County,49732
+31021,Nebraska,Burt County,6535
+31023,Nebraska,Butler County,8053
+31025,Nebraska,Cass County,25889
+31027,Nebraska,Cedar County,8530
+31029,Nebraska,Chase County,3971
+31031,Nebraska,Cherry County,5818
+31033,Nebraska,Cheyenne County,9676
+31035,Nebraska,Clay County,6205
+31037,Nebraska,Colfax County,10585
+31039,Nebraska,Cuming County,9042
+31041,Nebraska,Custer County,10897
+31043,Nebraska,Dakota County,20186
+31045,Nebraska,Dawes County,8890
+31047,Nebraska,Dawson County,23709
+31049,Nebraska,Deuel County,1883
+31051,Nebraska,Dixon County,5754
+31053,Nebraska,Dodge County,36707
+31055,Nebraska,Douglas County,561620
+31057,Nebraska,Dundy County,1801
+31059,Nebraska,Fillmore County,5582
+31061,Nebraska,Franklin County,2990
+31063,Nebraska,Frontier County,2631
+31065,Nebraska,Furnas County,4780
+31067,Nebraska,Gage County,21601
+31069,Nebraska,Garden County,1906
+31071,Nebraska,Garfield County,2016
+31073,Nebraska,Gosper County,2028
+31075,Nebraska,Grant County,649
+31077,Nebraska,Greeley County,2374
+31079,Nebraska,Hall County,61519
+31081,Nebraska,Hamilton County,9207
+31083,Nebraska,Harlan County,3443
+31085,Nebraska,Hayes County,893
+31087,Nebraska,Hitchcock County,2834
+31089,Nebraska,Holt County,10202
+31091,Nebraska,Hooker County,674
+31093,Nebraska,Howard County,6437
+31095,Nebraska,Jefferson County,7178
+31097,Nebraska,Johnson County,5185
+31099,Nebraska,Kearney County,6530
+31101,Nebraska,Keith County,8072
+31103,Nebraska,Keya Paha County,793
+31105,Nebraska,Kimball County,3619
+31107,Nebraska,Knox County,8472
+31109,Nebraska,Lancaster County,314358
+31111,Nebraska,Lincoln County,35280
+31113,Nebraska,Logan County,768
+31115,Nebraska,Loup County,609
+31117,Nebraska,McPherson County,499
+31119,Nebraska,Madison County,35144
+31121,Nebraska,Merrick County,7882
+31123,Nebraska,Morrill County,4836
+31125,Nebraska,Nance County,3607
+31127,Nebraska,Nemaha County,6949
+31129,Nebraska,Nuckolls County,4275
+31131,Nebraska,Otoe County,16027
+31133,Nebraska,Pawnee County,2641
+31135,Nebraska,Perkins County,2903
+31137,Nebraska,Phelps County,9060
+31139,Nebraska,Pierce County,7138
+31141,Nebraska,Platte County,33175
+31143,Nebraska,Polk County,5328
+31145,Nebraska,Red Willow County,10728
+31147,Nebraska,Richardson County,7969
+31149,Nebraska,Rock County,1436
+31151,Nebraska,Saline County,14441
+31153,Nebraska,Sarpy County,181439
+31155,Nebraska,Saunders County,21057
+31157,Nebraska,Scotts Bluff County,36363
+31159,Nebraska,Seward County,17161
+31161,Nebraska,Sheridan County,5289
+31163,Nebraska,Sherman County,3086
+31165,Nebraska,Sioux County,1203
+31167,Nebraska,Stanton County,5988
+31169,Nebraska,Thayer County,5045
+31171,Nebraska,Thomas County,725
+31173,Nebraska,Thurston County,7223
+31175,Nebraska,Valley County,4209
+31177,Nebraska,Washington County,20721
+31179,Nebraska,Wayne County,9318
+31181,Nebraska,Webster County,3524
+31183,Nebraska,Wheeler County,818
+31185,Nebraska,York County,13806
+32001,Nevada,Churchill County,24230
+32003,Nevada,Clark County,2204079
+32005,Nevada,Douglas County,48309
+32007,Nevada,Elko County,52649
+32009,Nevada,Esmeralda County,850
+32011,Nevada,Eureka County,1961
+32013,Nevada,Humboldt County,16826
+32015,Nevada,Lander County,5693
+32017,Nevada,Lincoln County,5223
+32019,Nevada,Lyon County,54122
+32021,Nevada,Mineral County,4457
+32023,Nevada,Nye County,44202
+32027,Nevada,Pershing County,6508
+32029,Nevada,Storey County,4006
+32031,Nevada,Washoe County,460587
+32033,Nevada,White Pine County,9592
+32510,Nevada,Carson City,54745
+33001,New Hampshire,Belknap County,60785
+33003,New Hampshire,Carroll County,48064
+33005,New Hampshire,Cheshire County,75960
+33007,New Hampshire,Coos County,31634
+33009,New Hampshire,Grafton County,89386
+33011,New Hampshire,Hillsborough County,409697
+33013,New Hampshire,Merrimack County,149216
+33015,New Hampshire,Rockingham County,306363
+33017,New Hampshire,Strafford County,128613
+33019,New Hampshire,Sullivan County,43077
+34001,New Jersey,Atlantic County,269918
+34003,New Jersey,Bergen County,948406
+34005,New Jersey,Burlington County,448596
+34007,New Jersey,Camden County,510719
+34009,New Jersey,Cape May County,93553
+34011,New Jersey,Cumberland County,152538
+34013,New Jersey,Essex County,808285
+34015,New Jersey,Gloucester County,292206
+34017,New Jersey,Hudson County,691643
+34019,New Jersey,Hunterdon County,125059
+34021,New Jersey,Mercer County,374733
+34023,New Jersey,Middlesex County,842798
+34025,New Jersey,Monmouth County,626351
+34027,New Jersey,Morris County,499693
+34029,New Jersey,Ocean County,597943
+34031,New Jersey,Passaic County,512607
+34033,New Jersey,Salem County,62792
+34035,New Jersey,Somerset County,335432
+34037,New Jersey,Sussex County,141682
+34039,New Jersey,Union County,563892
+34041,New Jersey,Warren County,106798
+35001,New Mexico,Bernalillo County,676773
+35003,New Mexico,Catron County,3587
+35005,New Mexico,Chaves County,64866
+35006,New Mexico,Cibola County,26853
+35007,New Mexico,Colfax County,12174
+35009,New Mexico,Curry County,49812
+35011,New Mexico,De Baca County,1829
+35013,New Mexico,Dona Ana County,215579
+35015,New Mexico,Eddy County,56997
+35017,New Mexico,Grant County,27687
+35019,New Mexico,Guadalupe County,4429
+35021,New Mexico,Harding County,692
+35023,New Mexico,Hidalgo County,4305
+35025,New Mexico,Lea County,68759
+35027,New Mexico,Lincoln County,19395
+35028,New Mexico,Los Alamos County,18738
+35029,New Mexico,Luna County,24078
+35031,New Mexico,McKinley County,72564
+35033,New Mexico,Mora County,4551
+35035,New Mexico,Otero County,65817
+35037,New Mexico,Quay County,8306
+35039,New Mexico,Rio Arriba County,39159
+35041,New Mexico,Roosevelt County,18847
+35043,New Mexico,Sandoval County,142507
+35045,New Mexico,San Juan County,126926
+35047,New Mexico,San Miguel County,27748
+35049,New Mexico,Santa Fe County,148750
+35051,New Mexico,Sierra County,11116
+35053,New Mexico,Socorro County,16798
+35055,New Mexico,Taos County,32795
+35057,New Mexico,Torrance County,15506
+35059,New Mexico,Union County,4187
+35061,New Mexico,Valencia County,75940
+36001,New York,Albany County,309612
+36003,New York,Allegany County,46894
+36005,New York,Bronx County,1471160
+36007,New York,Broome County,193639
+36009,New York,Cattaraugus County,77348
+36011,New York,Cayuga County,77603
+36013,New York,Chautauqua County,129046
+36015,New York,Chemung County,85557
+36017,New York,Chenango County,47863
+36019,New York,Clinton County,80980
+36021,New York,Columbia County,60604
+36023,New York,Cortland County,47786
+36025,New York,Delaware County,45001
+36027,New York,Dutchess County,295568
+36029,New York,Erie County,925528
+36031,New York,Essex County,37956
+36033,New York,Franklin County,51116
+36035,New York,Fulton County,53877
+36037,New York,Genesee County,57956
+36039,New York,Greene County,47470
+36041,New York,Hamilton County,4485
+36043,New York,Herkimer County,62240
+36045,New York,Jefferson County,114187
+36047,New York,Kings County,2648771
+36049,New York,Lewis County,26551
+36051,New York,Livingston County,63799
+36053,New York,Madison County,70965
+36055,New York,Monroe County,747642
+36057,New York,Montgomery County,49258
+36059,New York,Nassau County,1369514
+36061,New York,New York County,1664727
+36063,New York,Niagara County,211328
+36065,New York,Oneida County,231332
+36067,New York,Onondaga County,465398
+36069,New York,Ontario County,109899
+36071,New York,Orange County,382226
+36073,New York,Orleans County,40983
+36075,New York,Oswego County,118478
+36077,New York,Otsego County,60094
+36079,New York,Putnam County,99323
+36081,New York,Queens County,2358582
+36083,New York,Rensselaer County,159722
+36085,New York,Richmond County,479458
+36087,New York,Rockland County,328868
+36089,New York,St. Lawrence County,109623
+36091,New York,Saratoga County,229869
+36093,New York,Schenectady County,155565
+36095,New York,Schoharie County,31420
+36097,New York,Schuyler County,18000
+36099,New York,Seneca County,34498
+36101,New York,Steuben County,96281
+36103,New York,Suffolk County,1492953
+36105,New York,Sullivan County,75485
+36107,New York,Tioga County,48578
+36109,New York,Tompkins County,104802
+36111,New York,Ulster County,179417
+36113,New York,Warren County,64532
+36115,New York,Washington County,61620
+36117,New York,Wayne County,90670
+36119,New York,Westchester County,980244
+36121,New York,Wyoming County,40493
+36123,New York,Yates County,24955
+37001,North Carolina,Alamance County,162391
+37003,North Carolina,Alexander County,37286
+37005,North Carolina,Alleghany County,11031
+37007,North Carolina,Anson County,24991
+37009,North Carolina,Ashe County,26957
+37011,North Carolina,Avery County,17536
+37013,North Carolina,Beaufort County,47088
+37015,North Carolina,Bertie County,19224
+37017,North Carolina,Bladen County,33478
+37019,North Carolina,Brunswick County,130897
+37021,North Carolina,Buncombe County,257607
+37023,North Carolina,Burke County,89293
+37025,North Carolina,Cabarrus County,206872
+37027,North Carolina,Caldwell County,81981
+37029,North Carolina,Camden County,10581
+37031,North Carolina,Carteret County,68881
+37033,North Carolina,Caswell County,22646
+37035,North Carolina,Catawba County,157974
+37037,North Carolina,Chatham County,71472
+37039,North Carolina,Cherokee County,28087
+37041,North Carolina,Chowan County,14105
+37043,North Carolina,Clay County,11074
+37045,North Carolina,Cleveland County,97334
+37047,North Carolina,Columbus County,55936
+37049,North Carolina,Craven County,102578
+37051,North Carolina,Cumberland County,332546
+37053,North Carolina,Currituck County,26331
+37055,North Carolina,Dare County,36099
+37057,North Carolina,Davidson County,165466
+37059,North Carolina,Davie County,42456
+37061,North Carolina,Duplin County,59039
+37063,North Carolina,Durham County,311640
+37065,North Carolina,Edgecombe County,52747
+37067,North Carolina,Forsyth County,376320
+37069,North Carolina,Franklin County,66168
+37071,North Carolina,Gaston County,220182
+37073,North Carolina,Gates County,11544
+37075,North Carolina,Graham County,8541
+37077,North Carolina,Granville County,59557
+37079,North Carolina,Greene County,21015
+37081,North Carolina,Guilford County,526953
+37083,North Carolina,Halifax County,51310
+37085,North Carolina,Harnett County,132754
+37087,North Carolina,Haywood County,61084
+37089,North Carolina,Henderson County,115708
+37091,North Carolina,Hertford County,23906
+37093,North Carolina,Hoke County,54116
+37095,North Carolina,Hyde County,5363
+37097,North Carolina,Iredell County,175711
+37099,North Carolina,Jackson County,42973
+37101,North Carolina,Johnston County,196708
+37103,North Carolina,Jones County,9597
+37105,North Carolina,Lee County,60430
+37107,North Carolina,Lenoir County,56883
+37109,North Carolina,Lincoln County,82403
+37111,North Carolina,McDowell County,45159
+37113,North Carolina,Macon County,34732
+37115,North Carolina,Madison County,21746
+37117,North Carolina,Martin County,22789
+37119,North Carolina,Mecklenburg County,1076837
+37121,North Carolina,Mitchell County,15072
+37123,North Carolina,Montgomery County,27435
+37125,North Carolina,Moore County,97264
+37127,North Carolina,Nash County,93991
+37129,North Carolina,New Hanover County,227198
+37131,North Carolina,Northampton County,19862
+37133,North Carolina,Onslow County,193893
+37135,North Carolina,Orange County,144946
+37137,North Carolina,Pamlico County,12689
+37139,North Carolina,Pasquotank County,39743
+37141,North Carolina,Pender County,60958
+37143,North Carolina,Perquimans County,13474
+37145,North Carolina,Person County,39370
+37147,North Carolina,Pitt County,179042
+37149,North Carolina,Polk County,20558
+37151,North Carolina,Randolph County,143282
+37153,North Carolina,Richmond County,44798
+37155,North Carolina,Robeson County,132606
+37157,North Carolina,Rockingham County,90949
+37159,North Carolina,Rowan County,140644
+37161,North Carolina,Rutherford County,66551
+37163,North Carolina,Sampson County,63430
+37165,North Carolina,Scotland County,35093
+37167,North Carolina,Stanly County,61482
+37169,North Carolina,Stokes County,45717
+37171,North Carolina,Surry County,72224
+37173,North Carolina,Swain County,14294
+37175,North Carolina,Transylvania County,33956
+37177,North Carolina,Tyrrell County,4052
+37179,North Carolina,Union County,231366
+37181,North Carolina,Vance County,44211
+37183,North Carolina,Wake County,1072203
+37185,North Carolina,Warren County,19883
+37187,North Carolina,Washington County,12012
+37189,North Carolina,Watauga County,55121
+37191,North Carolina,Wayne County,124172
+37193,North Carolina,Wilkes County,68576
+37195,North Carolina,Wilson County,81671
+37197,North Carolina,Yadkin County,37774
+37199,North Carolina,Yancey County,17744
+38001,North Dakota,Adams County,2318
+38003,North Dakota,Barnes County,10734
+38005,North Dakota,Benson County,6936
+38007,North Dakota,Billings County,940
+38009,North Dakota,Bottineau County,6530
+38011,North Dakota,Bowman County,3166
+38013,North Dakota,Burke County,2131
+38015,North Dakota,Burleigh County,95030
+38017,North Dakota,Cass County,177787
+38019,North Dakota,Cavalier County,3762
+38021,North Dakota,Dickey County,4861
+38023,North Dakota,Divide County,2288
+38025,North Dakota,Dunn County,4289
+38027,North Dakota,Eddy County,2316
+38029,North Dakota,Emmons County,3301
+38031,North Dakota,Foster County,3257
+38033,North Dakota,Golden Valley County,1789
+38035,North Dakota,Grand Forks County,70795
+38037,North Dakota,Grant County,2376
+38039,North Dakota,Griggs County,2258
+38041,North Dakota,Hettinger County,2483
+38043,North Dakota,Kidder County,2482
+38045,North Dakota,LaMoure County,4087
+38047,North Dakota,Logan County,1918
+38049,North Dakota,McHenry County,5900
+38051,North Dakota,McIntosh County,2606
+38053,North Dakota,McKenzie County,12724
+38055,North Dakota,McLean County,9685
+38057,North Dakota,Mercer County,8465
+38059,North Dakota,Morton County,30796
+38061,North Dakota,Mountrail County,10265
+38063,North Dakota,Nelson County,2937
+38065,North Dakota,Oliver County,1940
+38067,North Dakota,Pembina County,6972
+38069,North Dakota,Pierce County,4099
+38071,North Dakota,Ramsey County,11519
+38073,North Dakota,Ransom County,5297
+38075,North Dakota,Renville County,2463
+38077,North Dakota,Richland County,16351
+38079,North Dakota,Rolette County,14531
+38081,North Dakota,Sargent County,3858
+38083,North Dakota,Sheridan County,1353
+38085,North Dakota,Sioux County,4376
+38087,North Dakota,Slope County,771
+38089,North Dakota,Stark County,30209
+38091,North Dakota,Steele County,1917
+38093,North Dakota,Stutsman County,21087
+38095,North Dakota,Towner County,2253
+38097,North Dakota,Traill County,8013
+38099,North Dakota,Walsh County,10855
+38101,North Dakota,Ward County,68946
+38103,North Dakota,Wells County,4022
+38105,North Dakota,Williams County,33349
+39001,Ohio,Adams County,27726
+39003,Ohio,Allen County,103198
+39005,Ohio,Ashland County,53628
+39007,Ohio,Ashtabula County,97807
+39009,Ohio,Athens County,66597
+39011,Ohio,Auglaize County,45778
+39013,Ohio,Belmont County,68029
+39015,Ohio,Brown County,43576
+39017,Ohio,Butler County,380604
+39019,Ohio,Carroll County,27385
+39021,Ohio,Champaign County,38840
+39023,Ohio,Clark County,134557
+39025,Ohio,Clermont County,204214
+39027,Ohio,Clinton County,42009
+39029,Ohio,Columbiana County,103077
+39031,Ohio,Coshocton County,36544
+39033,Ohio,Crawford County,41746
+39035,Ohio,Cuyahoga County,1248514
+39037,Ohio,Darke County,51536
+39039,Ohio,Defiance County,38156
+39041,Ohio,Delaware County,200464
+39043,Ohio,Erie County,74817
+39045,Ohio,Fairfield County,154733
+39047,Ohio,Fayette County,28752
+39049,Ohio,Franklin County,1291981
+39051,Ohio,Fulton County,42289
+39053,Ohio,Gallia County,29973
+39055,Ohio,Geauga County,93918
+39057,Ohio,Greene County,166752
+39059,Ohio,Guernsey County,39093
+39061,Ohio,Hamilton County,813822
+39063,Ohio,Hancock County,75754
+39065,Ohio,Hardin County,31364
+39067,Ohio,Harrison County,15216
+39069,Ohio,Henry County,27185
+39071,Ohio,Highland County,42971
+39073,Ohio,Hocking County,28474
+39075,Ohio,Holmes County,43957
+39077,Ohio,Huron County,58494
+39079,Ohio,Jackson County,32449
+39081,Ohio,Jefferson County,66359
+39083,Ohio,Knox County,61261
+39085,Ohio,Lake County,230117
+39087,Ohio,Lawrence County,60249
+39089,Ohio,Licking County,173448
+39091,Ohio,Logan County,45325
+39093,Ohio,Lorain County,307924
+39095,Ohio,Lucas County,430887
+39097,Ohio,Madison County,44036
+39099,Ohio,Mahoning County,229796
+39101,Ohio,Marion County,64967
+39103,Ohio,Medina County,178371
+39105,Ohio,Meigs County,23080
+39107,Ohio,Mercer County,40873
+39109,Ohio,Miami County,105122
+39111,Ohio,Monroe County,13946
+39113,Ohio,Montgomery County,531542
+39115,Ohio,Morgan County,14709
+39117,Ohio,Morrow County,34994
+39119,Ohio,Muskingum County,86149
+39121,Ohio,Noble County,14406
+39123,Ohio,Ottawa County,40657
+39125,Ohio,Paulding County,18845
+39127,Ohio,Perry County,36024
+39129,Ohio,Pickaway County,57830
+39131,Ohio,Pike County,28270
+39133,Ohio,Portage County,162277
+39135,Ohio,Preble County,41120
+39137,Ohio,Putnam County,33878
+39139,Ohio,Richland County,120589
+39141,Ohio,Ross County,77313
+39143,Ohio,Sandusky County,59195
+39145,Ohio,Scioto County,75929
+39147,Ohio,Seneca County,55243
+39149,Ohio,Shelby County,48759
+39151,Ohio,Stark County,372542
+39153,Ohio,Summit County,541228
+39155,Ohio,Trumbull County,200380
+39157,Ohio,Tuscarawas County,92297
+39159,Ohio,Union County,56741
+39161,Ohio,Van Wert County,28217
+39163,Ohio,Vinton County,13092
+39165,Ohio,Warren County,228882
+39167,Ohio,Washington County,60418
+39169,Ohio,Wayne County,116038
+39171,Ohio,Williams County,36784
+39173,Ohio,Wood County,130492
+39175,Ohio,Wyandot County,22029
+40001,Oklahoma,Adair County,21909
+40003,Oklahoma,Alfalfa County,5907
+40005,Oklahoma,Atoka County,13887
+40007,Oklahoma,Beaver County,5315
+40009,Oklahoma,Beckham County,21793
+40011,Oklahoma,Blaine County,9498
+40013,Oklahoma,Bryan County,46319
+40015,Oklahoma,Caddo County,29173
+40017,Oklahoma,Canadian County,139926
+40019,Oklahoma,Carter County,48190
+40021,Oklahoma,Cherokee County,48888
+40023,Oklahoma,Choctaw County,14863
+40025,Oklahoma,Cimarron County,2154
+40027,Oklahoma,Cleveland County,279641
+40029,Oklahoma,Coal County,5642
+40031,Oklahoma,Comanche County,121526
+40033,Oklahoma,Cotton County,5823
+40035,Oklahoma,Craig County,14327
+40037,Oklahoma,Creek County,71704
+40039,Oklahoma,Custer County,28800
+40041,Oklahoma,Delaware County,42602
+40043,Oklahoma,Dewey County,4878
+40045,Oklahoma,Ellis County,3966
+40047,Oklahoma,Garfield County,61581
+40049,Oklahoma,Garvin County,27909
+40051,Oklahoma,Grady County,54943
+40053,Oklahoma,Grant County,4395
+40055,Oklahoma,Greer County,5843
+40057,Oklahoma,Harmon County,2689
+40059,Oklahoma,Harper County,3808
+40061,Oklahoma,Haskell County,12763
+40063,Oklahoma,Hughes County,13302
+40065,Oklahoma,Jackson County,25125
+40067,Oklahoma,Jefferson County,6183
+40069,Oklahoma,Johnston County,11060
+40071,Oklahoma,Kay County,44544
+40073,Oklahoma,Kingfisher County,15669
+40075,Oklahoma,Kiowa County,8893
+40077,Oklahoma,Latimer County,10411
+40079,Oklahoma,Le Flore County,49731
+40081,Oklahoma,Lincoln County,35142
+40083,Oklahoma,Logan County,46784
+40085,Oklahoma,Love County,10034
+40087,Oklahoma,McClain County,39343
+40089,Oklahoma,McCurtain County,32808
+40091,Oklahoma,McIntosh County,19742
+40093,Oklahoma,Major County,7693
+40095,Oklahoma,Marshall County,16434
+40097,Oklahoma,Mayes County,40921
+40099,Oklahoma,Murray County,13853
+40101,Oklahoma,Muskogee County,69086
+40103,Oklahoma,Noble County,11277
+40105,Oklahoma,Nowata County,10306
+40107,Oklahoma,Okfuskee County,12140
+40109,Oklahoma,Oklahoma County,787958
+40111,Oklahoma,Okmulgee County,38930
+40113,Oklahoma,Osage County,47233
+40115,Oklahoma,Ottawa County,31312
+40117,Oklahoma,Pawnee County,16472
+40119,Oklahoma,Payne County,81575
+40121,Oklahoma,Pittsburg County,44184
+40123,Oklahoma,Pontotoc County,38224
+40125,Oklahoma,Pottawatomie County,72226
+40127,Oklahoma,Pushmataha County,11173
+40129,Oklahoma,Roger Mills County,3716
+40131,Oklahoma,Rogers County,91444
+40133,Oklahoma,Seminole County,24878
+40135,Oklahoma,Sequoyah County,41252
+40137,Oklahoma,Stephens County,43332
+40139,Oklahoma,Texas County,20900
+40141,Oklahoma,Tillman County,7433
+40143,Oklahoma,Tulsa County,646266
+40145,Oklahoma,Wagoner County,78657
+40147,Oklahoma,Washington County,51932
+40149,Oklahoma,Washita County,11134
+40151,Oklahoma,Woods County,9031
+40153,Oklahoma,Woodward County,20459
+41001,Oregon,Baker County,16054
+41003,Oregon,Benton County,90951
+41005,Oregon,Clackamas County,412672
+41007,Oregon,Clatsop County,39182
+41009,Oregon,Columbia County,51782
+41011,Oregon,Coos County,63888
+41013,Oregon,Crook County,23123
+41015,Oregon,Curry County,22669
+41017,Oregon,Deschutes County,186875
+41019,Oregon,Douglas County,109405
+41021,Oregon,Gilliam County,1855
+41023,Oregon,Grant County,7190
+41025,Oregon,Harney County,7289
+41027,Oregon,Hood River County,23377
+41029,Oregon,Jackson County,217479
+41031,Oregon,Jefferson County,23758
+41033,Oregon,Josephine County,86352
+41035,Oregon,Klamath County,66935
+41037,Oregon,Lake County,7863
+41039,Oregon,Lane County,374748
+41041,Oregon,Lincoln County,48920
+41043,Oregon,Linn County,125047
+41045,Oregon,Malheur County,30480
+41047,Oregon,Marion County,341286
+41049,Oregon,Morrow County,11166
+41051,Oregon,Multnomah County,807555
+41053,Oregon,Polk County,83696
+41055,Oregon,Sherman County,1758
+41057,Oregon,Tillamook County,26690
+41059,Oregon,Umatilla County,76985
+41061,Oregon,Union County,26222
+41063,Oregon,Wallowa County,7051
+41065,Oregon,Wasco County,26437
+41067,Oregon,Washington County,588957
+41069,Oregon,Wheeler County,1357
+41071,Oregon,Yamhill County,105722
+42001,Pennsylvania,Adams County,102336
+42003,Pennsylvania,Allegheny County,1223048
+42005,Pennsylvania,Armstrong County,65642
+42007,Pennsylvania,Beaver County,166140
+42009,Pennsylvania,Bedford County,48480
+42011,Pennsylvania,Berks County,417854
+42013,Pennsylvania,Blair County,123457
+42015,Pennsylvania,Bradford County,60853
+42017,Pennsylvania,Bucks County,628341
+42019,Pennsylvania,Butler County,187108
+42021,Pennsylvania,Cambria County,133054
+42023,Pennsylvania,Cameron County,4592
+42025,Pennsylvania,Carbon County,63853
+42027,Pennsylvania,Centre County,162660
+42029,Pennsylvania,Chester County,519293
+42031,Pennsylvania,Clarion County,38458
+42033,Pennsylvania,Clearfield County,79685
+42035,Pennsylvania,Clinton County,38998
+42037,Pennsylvania,Columbia County,65932
+42039,Pennsylvania,Crawford County,86159
+42041,Pennsylvania,Cumberland County,250066
+42043,Pennsylvania,Dauphin County,275710
+42045,Pennsylvania,Delaware County,564696
+42047,Pennsylvania,Elk County,30197
+42049,Pennsylvania,Erie County,274541
+42051,Pennsylvania,Fayette County,131504
+42053,Pennsylvania,Forest County,7297
+42055,Pennsylvania,Franklin County,154234
+42057,Pennsylvania,Fulton County,14590
+42059,Pennsylvania,Greene County,36770
+42061,Pennsylvania,Huntingdon County,45491
+42063,Pennsylvania,Indiana County,84953
+42065,Pennsylvania,Jefferson County,43804
+42067,Pennsylvania,Juniata County,24514
+42069,Pennsylvania,Lackawanna County,210761
+42071,Pennsylvania,Lancaster County,542903
+42073,Pennsylvania,Lawrence County,87069
+42075,Pennsylvania,Lebanon County,139754
+42077,Pennsylvania,Lehigh County,366494
+42079,Pennsylvania,Luzerne County,317343
+42081,Pennsylvania,Lycoming County,113841
+42083,Pennsylvania,McKean County,41330
+42085,Pennsylvania,Mercer County,111750
+42087,Pennsylvania,Mifflin County,46388
+42089,Pennsylvania,Monroe County,168046
+42091,Pennsylvania,Montgomery County,826075
+42093,Pennsylvania,Montour County,18272
+42095,Pennsylvania,Northampton County,303405
+42097,Pennsylvania,Northumberland County,92029
+42099,Pennsylvania,Perry County,46127
+42101,Pennsylvania,Philadelphia County,1580863
+42103,Pennsylvania,Pike County,55691
+42105,Pennsylvania,Potter County,16802
+42107,Pennsylvania,Schuylkill County,142569
+42109,Pennsylvania,Snyder County,40801
+42111,Pennsylvania,Somerset County,74501
+42113,Pennsylvania,Sullivan County,6089
+42115,Pennsylvania,Susquehanna County,40985
+42117,Pennsylvania,Tioga County,40793
+42119,Pennsylvania,Union County,44595
+42121,Pennsylvania,Venango County,51762
+42123,Pennsylvania,Warren County,39659
+42125,Pennsylvania,Washington County,207298
+42127,Pennsylvania,Wayne County,51205
+42129,Pennsylvania,Westmoreland County,352627
+42131,Pennsylvania,Wyoming County,27322
+42133,Pennsylvania,York County,446078
+44001,Rhode Island,Bristol County,48912
+44003,Rhode Island,Kent County,163760
+44005,Rhode Island,Newport County,83460
+44007,Rhode Island,Providence County,637357
+44009,Rhode Island,Washington County,126150
+45001,South Carolina,Abbeville County,24722
+45003,South Carolina,Aiken County,168179
+45005,South Carolina,Allendale County,9002
+45007,South Carolina,Anderson County,198759
+45009,South Carolina,Bamberg County,14381
+45011,South Carolina,Barnwell County,21345
+45013,South Carolina,Beaufort County,186844
+45015,South Carolina,Berkeley County,217937
+45017,South Carolina,Calhoun County,14704
+45019,South Carolina,Charleston County,401438
+45021,South Carolina,Cherokee County,57105
+45023,South Carolina,Chester County,32301
+45025,South Carolina,Chesterfield County,45948
+45027,South Carolina,Clarendon County,34057
+45029,South Carolina,Colleton County,37611
+45031,South Carolina,Darlington County,67265
+45033,South Carolina,Dillon County,30666
+45035,South Carolina,Dorchester County,156456
+45037,South Carolina,Edgefield County,26693
+45039,South Carolina,Fairfield County,22607
+45041,South Carolina,Florence County,138566
+45043,South Carolina,Georgetown County,61607
+45045,South Carolina,Greenville County,506837
+45047,South Carolina,Greenwood County,70355
+45049,South Carolina,Hampton County,19602
+45051,South Carolina,Horry County,333268
+45053,South Carolina,Jasper County,28458
+45055,South Carolina,Kershaw County,65036
+45057,South Carolina,Lancaster County,92550
+45059,South Carolina,Laurens County,66848
+45061,South Carolina,Lee County,17350
+45063,South Carolina,Lexington County,290642
+45065,South Carolina,McCormick County,9545
+45067,South Carolina,Marion County,31293
+45069,South Carolina,Marlboro County,26825
+45071,South Carolina,Newberry County,38488
+45073,South Carolina,Oconee County,77270
+45075,South Carolina,Orangeburg County,87476
+45077,South Carolina,Pickens County,123479
+45079,South Carolina,Richland County,411592
+45081,South Carolina,Saluda County,20452
+45083,South Carolina,Spartanburg County,306854
+45085,South Carolina,Sumter County,106847
+45087,South Carolina,Union County,27537
+45089,South Carolina,Williamsburg County,31133
+45091,South Carolina,York County,266439
+46003,South Dakota,Aurora County,2738
+46005,South Dakota,Beadle County,18157
+46007,South Dakota,Bennett County,3454
+46009,South Dakota,Bon Homme County,6984
+46011,South Dakota,Brookings County,34255
+46013,South Dakota,Brown County,39178
+46015,South Dakota,Brule County,5312
+46017,South Dakota,Buffalo County,1999
+46019,South Dakota,Butte County,10107
+46021,South Dakota,Campbell County,1379
+46023,South Dakota,Charles Mix County,9428
+46025,South Dakota,Clark County,3668
+46027,South Dakota,Clay County,13990
+46029,South Dakota,Codington County,28099
+46031,South Dakota,Corson County,4203
+46033,South Dakota,Custer County,8691
+46035,South Dakota,Davison County,19704
+46037,South Dakota,Day County,5521
+46039,South Dakota,Deuel County,4281
+46041,South Dakota,Dewey County,5835
+46043,South Dakota,Douglas County,2931
+46045,South Dakota,Edmunds County,3919
+46047,South Dakota,Fall River County,6687
+46049,South Dakota,Faulk County,2329
+46051,South Dakota,Grant County,7061
+46053,South Dakota,Gregory County,4226
+46055,South Dakota,Haakon County,1943
+46057,South Dakota,Hamlin County,5948
+46059,South Dakota,Hand County,3277
+46061,South Dakota,Hanson County,3423
+46063,South Dakota,Harding County,1242
+46065,South Dakota,Hughes County,17666
+46067,South Dakota,Hutchinson County,7358
+46069,South Dakota,Hyde County,1318
+46071,South Dakota,Jackson County,3289
+46073,South Dakota,Jerauld County,2028
+46075,South Dakota,Jones County,936
+46077,South Dakota,Kingsbury County,4952
+46079,South Dakota,Lake County,12809
+46081,South Dakota,Lawrence County,25429
+46083,South Dakota,Lincoln County,56664
+46085,South Dakota,Lyman County,3904
+46087,South Dakota,McCook County,5499
+46089,South Dakota,McPherson County,2426
+46091,South Dakota,Marshall County,4804
+46093,South Dakota,Meade County,28018
+46095,South Dakota,Mellette County,2088
+46097,South Dakota,Miner County,2228
+46099,South Dakota,Minnehaha County,188616
+46101,South Dakota,Moody County,6579
+46102,South Dakota,Oglala Lakota County,14354
+46103,South Dakota,Pennington County,110141
+46105,South Dakota,Perkins County,2974
+46107,South Dakota,Potter County,2231
+46109,South Dakota,Roberts County,10278
+46111,South Dakota,Sanborn County,2450
+46115,South Dakota,Spink County,6410
+46117,South Dakota,Stanley County,3011
+46119,South Dakota,Sully County,1407
+46121,South Dakota,Todd County,10065
+46123,South Dakota,Tripp County,5460
+46125,South Dakota,Turner County,8315
+46127,South Dakota,Union County,15029
+46129,South Dakota,Walworth County,5543
+46135,South Dakota,Yankton County,22662
+46137,South Dakota,Ziebach County,2756
+47001,Tennessee,Anderson County,76257
+47003,Tennessee,Bedford County,48117
+47005,Tennessee,Benton County,15986
+47007,Tennessee,Bledsoe County,14717
+47009,Tennessee,Blount County,129929
+47011,Tennessee,Bradley County,105560
+47013,Tennessee,Campbell County,39648
+47015,Tennessee,Cannon County,14216
+47017,Tennessee,Carroll County,27860
+47019,Tennessee,Carter County,56488
+47021,Tennessee,Cheatham County,40330
+47023,Tennessee,Chester County,17119
+47025,Tennessee,Claiborne County,31609
+47027,Tennessee,Clay County,7703
+47029,Tennessee,Cocke County,35556
+47031,Tennessee,Coffee County,55034
+47033,Tennessee,Crockett County,14473
+47035,Tennessee,Cumberland County,59078
+47037,Tennessee,Davidson County,691243
+47039,Tennessee,Decatur County,11751
+47041,Tennessee,DeKalb County,19852
+47043,Tennessee,Dickson County,52853
+47045,Tennessee,Dyer County,37463
+47047,Tennessee,Fayette County,40036
+47049,Tennessee,Fentress County,18136
+47051,Tennessee,Franklin County,41652
+47053,Tennessee,Gibson County,49111
+47055,Tennessee,Giles County,29401
+47057,Tennessee,Grainger County,23144
+47059,Tennessee,Greene County,68808
+47061,Tennessee,Grundy County,13361
+47063,Tennessee,Hamblen County,64277
+47065,Tennessee,Hamilton County,361613
+47067,Tennessee,Hancock County,6600
+47069,Tennessee,Hardeman County,25447
+47071,Tennessee,Hardin County,25846
+47073,Tennessee,Hawkins County,56459
+47075,Tennessee,Haywood County,17573
+47077,Tennessee,Henderson County,27751
+47079,Tennessee,Henry County,32450
+47081,Tennessee,Hickman County,24864
+47083,Tennessee,Houston County,8213
+47085,Tennessee,Humphreys County,18484
+47087,Tennessee,Jackson County,11677
+47089,Tennessee,Jefferson County,53804
+47091,Tennessee,Johnson County,17691
+47093,Tennessee,Knox County,461860
+47095,Tennessee,Lake County,7468
+47097,Tennessee,Lauderdale County,25274
+47099,Tennessee,Lawrence County,43396
+47101,Tennessee,Lewis County,12035
+47103,Tennessee,Lincoln County,33751
+47105,Tennessee,Loudon County,52152
+47107,Tennessee,McMinn County,52877
+47109,Tennessee,McNairy County,26004
+47111,Tennessee,Macon County,24079
+47113,Tennessee,Madison County,97643
+47115,Tennessee,Marion County,28425
+47117,Tennessee,Marshall County,32931
+47119,Tennessee,Maury County,92163
+47121,Tennessee,Meigs County,12068
+47123,Tennessee,Monroe County,46240
+47125,Tennessee,Montgomery County,200182
+47127,Tennessee,Moore County,6384
+47129,Tennessee,Morgan County,21636
+47131,Tennessee,Obion County,30385
+47133,Tennessee,Overton County,22012
+47135,Tennessee,Perry County,7975
+47137,Tennessee,Pickett County,5073
+47139,Tennessee,Polk County,16757
+47141,Tennessee,Putnam County,77674
+47143,Tennessee,Rhea County,32691
+47145,Tennessee,Roane County,53036
+47147,Tennessee,Robertson County,70177
+47149,Tennessee,Rutherford County,317157
+47151,Tennessee,Scott County,21989
+47153,Tennessee,Sequatchie County,14736
+47155,Tennessee,Sevier County,97638
+47157,Tennessee,Shelby County,936961
+47159,Tennessee,Smith County,19636
+47161,Tennessee,Stewart County,13355
+47163,Tennessee,Sullivan County,157158
+47165,Tennessee,Sumner County,183545
+47167,Tennessee,Tipton County,61366
+47169,Tennessee,Trousdale County,10083
+47171,Tennessee,Unicoi County,17759
+47173,Tennessee,Union County,19442
+47175,Tennessee,Van Buren County,5742
+47177,Tennessee,Warren County,40651
+47179,Tennessee,Washington County,127806
+47181,Tennessee,Wayne County,16583
+47183,Tennessee,Weakley County,33337
+47185,Tennessee,White County,26753
+47187,Tennessee,Williamson County,226257
+47189,Tennessee,Wilson County,136442
+48001,Texas,Anderson County,57741
+48003,Texas,Andrews County,17722
+48005,Texas,Angelina County,87805
+48007,Texas,Aransas County,25572
+48009,Texas,Archer County,8809
+48011,Texas,Armstrong County,1879
+48013,Texas,Atascosa County,48981
+48015,Texas,Austin County,29786
+48017,Texas,Bailey County,7077
+48019,Texas,Bandera County,22351
+48021,Texas,Bastrop County,84761
+48023,Texas,Baylor County,3581
+48025,Texas,Bee County,32563
+48027,Texas,Bell County,347833
+48029,Texas,Bexar County,1958578
+48031,Texas,Blanco County,11626
+48033,Texas,Borden County,673
+48035,Texas,Bosque County,18326
+48037,Texas,Bowie County,94012
+48039,Texas,Brazoria County,362457
+48041,Texas,Brazos County,222830
+48043,Texas,Brewster County,9337
+48045,Texas,Briscoe County,1528
+48047,Texas,Brooks County,7235
+48049,Texas,Brown County,38053
+48051,Texas,Burleson County,18011
+48053,Texas,Burnet County,46804
+48055,Texas,Caldwell County,42338
+48057,Texas,Calhoun County,21744
+48059,Texas,Callahan County,13946
+48061,Texas,Cameron County,423725
+48063,Texas,Camp County,12855
+48065,Texas,Carson County,6032
+48067,Texas,Cass County,30012
+48069,Texas,Castro County,7843
+48071,Texas,Chambers County,41441
+48073,Texas,Cherokee County,52240
+48075,Texas,Childress County,7067
+48077,Texas,Clay County,10421
+48079,Texas,Cochran County,2851
+48081,Texas,Coke County,3306
+48083,Texas,Coleman County,8430
+48085,Texas,Collin County,969603
+48087,Texas,Collingsworth County,2987
+48089,Texas,Colorado County,21232
+48091,Texas,Comal County,141009
+48093,Texas,Comanche County,13573
+48095,Texas,Concho County,2717
+48097,Texas,Cooke County,39895
+48099,Texas,Coryell County,74913
+48101,Texas,Cottle County,1387
+48103,Texas,Crane County,4740
+48105,Texas,Crockett County,3564
+48107,Texas,Crosby County,5899
+48109,Texas,Culberson County,2231
+48111,Texas,Dallam County,7208
+48113,Texas,Dallas County,2618148
+48115,Texas,Dawson County,12813
+48117,Texas,Deaf Smith County,18836
+48119,Texas,Delta County,5298
+48121,Texas,Denton County,836210
+48123,Texas,DeWitt County,20226
+48125,Texas,Dickens County,2209
+48127,Texas,Dimmit County,10418
+48129,Texas,Donley County,3311
+48131,Texas,Duval County,11273
+48133,Texas,Eastland County,18411
+48135,Texas,Ector County,157087
+48137,Texas,Edwards County,1953
+48139,Texas,Ellis County,173620
+48141,Texas,El Paso County,840410
+48143,Texas,Erath County,41969
+48145,Texas,Falls County,17437
+48147,Texas,Fannin County,34446
+48149,Texas,Fayette County,25272
+48151,Texas,Fisher County,3880
+48153,Texas,Floyd County,5855
+48155,Texas,Foard County,1222
+48157,Texas,Fort Bend County,764828
+48159,Texas,Franklin County,10767
+48161,Texas,Freestone County,19625
+48163,Texas,Frio County,19600
+48165,Texas,Gaines County,20638
+48167,Texas,Galveston County,335036
+48169,Texas,Garza County,6528
+48171,Texas,Gillespie County,26646
+48173,Texas,Glasscock County,1348
+48175,Texas,Goliad County,7562
+48177,Texas,Gonzales County,20893
+48179,Texas,Gray County,22404
+48181,Texas,Grayson County,131140
+48183,Texas,Gregg County,123367
+48185,Texas,Grimes County,28082
+48187,Texas,Guadalupe County,159659
+48189,Texas,Hale County,34134
+48191,Texas,Hall County,3071
+48193,Texas,Hamilton County,8422
+48195,Texas,Hansford County,5447
+48197,Texas,Hardeman County,3994
+48199,Texas,Hardin County,57139
+48201,Texas,Harris County,4652980
+48203,Texas,Harrison County,66661
+48205,Texas,Hartley County,5691
+48207,Texas,Haskell County,5746
+48209,Texas,Hays County,214485
+48211,Texas,Hemphill County,4024
+48213,Texas,Henderson County,81064
+48215,Texas,Hidalgo County,860661
+48217,Texas,Hill County,35852
+48219,Texas,Hockley County,23088
+48221,Texas,Hood County,58273
+48223,Texas,Hopkins County,36496
+48225,Texas,Houston County,23021
+48227,Texas,Howard County,36040
+48229,Texas,Hudspeth County,4408
+48231,Texas,Hunt County,93872
+48233,Texas,Hutchinson County,21375
+48235,Texas,Irion County,1516
+48237,Texas,Jack County,8832
+48239,Texas,Jackson County,14805
+48241,Texas,Jasper County,35561
+48243,Texas,Jeff Davis County,2280
+48245,Texas,Jefferson County,256299
+48247,Texas,Jim Hogg County,5202
+48249,Texas,Jim Wells County,40871
+48251,Texas,Johnson County,167301
+48253,Texas,Jones County,19983
+48255,Texas,Karnes County,15187
+48257,Texas,Kaufman County,122883
+48259,Texas,Kendall County,44026
+48261,Texas,Kenedy County,417
+48263,Texas,Kent County,763
+48265,Texas,Kerr County,51720
+48267,Texas,Kimble County,4410
+48269,Texas,King County,296
+48271,Texas,Kinney County,3745
+48273,Texas,Kleberg County,31088
+48275,Texas,Knox County,3710
+48277,Texas,Lamar County,49587
+48279,Texas,Lamb County,13210
+48281,Texas,Lampasas County,21027
+48283,Texas,La Salle County,7584
+48285,Texas,Lavaca County,20062
+48287,Texas,Lee County,17183
+48289,Texas,Leon County,17243
+48291,Texas,Liberty County,83658
+48293,Texas,Limestone County,23527
+48295,Texas,Lipscomb County,3378
+48297,Texas,Live Oak County,12174
+48299,Texas,Llano County,21210
+48301,Texas,Loving County,134
+48303,Texas,Lubbock County,305225
+48305,Texas,Lynn County,5859
+48307,Texas,McCulloch County,7957
+48309,Texas,McLennan County,251259
+48311,Texas,McMullen County,778
+48313,Texas,Madison County,14222
+48315,Texas,Marion County,10064
+48317,Texas,Martin County,5626
+48319,Texas,Mason County,4222
+48321,Texas,Matagorda County,36840
+48323,Texas,Maverick County,58216
+48325,Texas,Medina County,50066
+48327,Texas,Menard County,2124
+48329,Texas,Midland County,165049
+48331,Texas,Milam County,25053
+48333,Texas,Mills County,4921
+48335,Texas,Mitchell County,8468
+48337,Texas,Montague County,19539
+48339,Texas,Montgomery County,570934
+48341,Texas,Moore County,22097
+48343,Texas,Morris County,12467
+48345,Texas,Motley County,1230
+48347,Texas,Nacogdoches County,65580
+48349,Texas,Navarro County,48701
+48351,Texas,Newton County,13952
+48353,Texas,Nolan County,14770
+48355,Texas,Nueces County,361221
+48357,Texas,Ochiltree County,10073
+48359,Texas,Oldham County,2114
+48361,Texas,Orange County,85047
+48363,Texas,Palo Pinto County,28570
+48365,Texas,Panola County,23243
+48367,Texas,Parker County,133463
+48369,Texas,Parmer County,9842
+48371,Texas,Pecos County,15634
+48373,Texas,Polk County,49162
+48375,Texas,Potter County,120458
+48377,Texas,Presidio County,7156
+48379,Texas,Rains County,11762
+48381,Texas,Randall County,134442
+48383,Texas,Reagan County,3710
+48385,Texas,Real County,3429
+48387,Texas,Red River County,12229
+48389,Texas,Reeves County,15281
+48391,Texas,Refugio County,7224
+48393,Texas,Roberts County,938
+48395,Texas,Robertson County,17203
+48397,Texas,Rockwall County,96788
+48399,Texas,Runnels County,10266
+48401,Texas,Rusk County,52833
+48403,Texas,Sabine County,10461
+48405,Texas,San Augustine County,8253
+48407,Texas,San Jacinto County,28270
+48409,Texas,San Patricio County,67215
+48411,Texas,San Saba County,5959
+48413,Texas,Schleicher County,3001
+48415,Texas,Scurry County,17050
+48417,Texas,Shackelford County,3328
+48419,Texas,Shelby County,25513
+48421,Texas,Sherman County,3067
+48423,Texas,Smith County,227727
+48425,Texas,Somervell County,8845
+48427,Texas,Starr County,64454
+48429,Texas,Stephens County,9337
+48431,Texas,Sterling County,1295
+48433,Texas,Stonewall County,1388
+48435,Texas,Sutton County,3767
+48437,Texas,Swisher County,7515
+48439,Texas,Tarrant County,2054475
+48441,Texas,Taylor County,136290
+48443,Texas,Terrell County,810
+48445,Texas,Terry County,12715
+48447,Texas,Throckmorton County,1527
+48449,Texas,Titus County,32904
+48451,Texas,Tom Green County,118019
+48453,Texas,Travis County,1226698
+48455,Texas,Trinity County,14667
+48457,Texas,Tyler County,21539
+48459,Texas,Upshur County,41281
+48461,Texas,Upton County,3663
+48463,Texas,Uvalde County,27132
+48465,Texas,Val Verde County,49205
+48467,Texas,Van Zandt County,55182
+48469,Texas,Victoria County,92084
+48471,Texas,Walker County,72245
+48473,Texas,Waller County,51307
+48475,Texas,Ward County,11472
+48477,Texas,Washington County,35043
+48479,Texas,Webb County,274794
+48481,Texas,Wharton County,41968
+48483,Texas,Wheeler County,5358
+48485,Texas,Wichita County,132000
+48487,Texas,Wilbarger County,12764
+48489,Texas,Willacy County,21584
+48491,Texas,Williamson County,547545
+48493,Texas,Wilson County,49304
+48495,Texas,Winkler County,7574
+48497,Texas,Wise County,66181
+48499,Texas,Wood County,44314
+48501,Texas,Yoakum County,8568
+48503,Texas,Young County,17979
+48505,Texas,Zapata County,14322
+48507,Texas,Zavala County,11948
+49001,Utah,Beaver County,6386
+49003,Utah,Box Elder County,54079
+49005,Utah,Cache County,124438
+49007,Utah,Carbon County,20295
+49009,Utah,Daggett County,1029
+49011,Utah,Davis County,347637
+49013,Utah,Duchesne County,20026
+49015,Utah,Emery County,10077
+49017,Utah,Garfield County,5078
+49019,Utah,Grand County,9674
+49021,Utah,Iron County,51001
+49023,Utah,Juab County,11250
+49025,Utah,Kane County,7567
+49027,Utah,Millard County,12863
+49029,Utah,Morgan County,11873
+49031,Utah,Piute County,1420
+49033,Utah,Rich County,2391
+49035,Utah,Salt Lake County,1135649
+49037,Utah,San Juan County,15356
+49039,Utah,Sanpete County,30035
+49041,Utah,Sevier County,21316
+49043,Utah,Summit County,41106
+49045,Utah,Tooele County,67456
+49047,Utah,Uintah County,35150
+49049,Utah,Utah County,606425
+49051,Utah,Wasatch County,32106
+49053,Utah,Washington County,165662
+49055,Utah,Wayne County,2719
+49057,Utah,Weber County,251769
+50001,Vermont,Addison County,36776
+50003,Vermont,Bennington County,35594
+50005,Vermont,Caledonia County,30164
+50007,Vermont,Chittenden County,162372
+50009,Vermont,Essex County,6230
+50011,Vermont,Franklin County,49025
+50013,Vermont,Grand Isle County,6998
+50015,Vermont,Lamoille County,25337
+50017,Vermont,Orange County,28974
+50019,Vermont,Orleans County,26841
+50021,Vermont,Rutland County,59087
+50023,Vermont,Washington County,58290
+50025,Vermont,Windham County,42869
+50027,Vermont,Windsor County,55100
+51001,Virginia,Accomack County,32545
+51003,Virginia,Albemarle County,107702
+51005,Virginia,Alleghany County,15122
+51007,Virginia,Amelia County,13020
+51009,Virginia,Amherst County,31594
+51011,Virginia,Appomattox County,15681
+51013,Virginia,Arlington County,234965
+51015,Virginia,Augusta County,75144
+51017,Virginia,Bath County,4297
+51019,Virginia,Bedford County,77974
+51021,Virginia,Bland County,6350
+51023,Virginia,Botetourt County,33192
+51025,Virginia,Brunswick County,16244
+51027,Virginia,Buchanan County,21514
+51029,Virginia,Buckingham County,17065
+51031,Virginia,Campbell County,55010
+51033,Virginia,Caroline County,30461
+51035,Virginia,Carroll County,29708
+51036,Virginia,Charles City County,7004
+51037,Virginia,Charlotte County,12119
+51041,Virginia,Chesterfield County,343599
+51043,Virginia,Clarke County,14508
+51045,Virginia,Craig County,5062
+51047,Virginia,Culpeper County,51282
+51049,Virginia,Cumberland County,9811
+51051,Virginia,Dickenson County,14782
+51053,Virginia,Dinwiddie County,28208
+51057,Virginia,Essex County,11028
+51059,Virginia,Fairfax County,1148433
+51061,Virginia,Fauquier County,69465
+51063,Virginia,Floyd County,15755
+51065,Virginia,Fluvanna County,26452
+51067,Virginia,Franklin County,56445
+51069,Virginia,Frederick County,86484
+51071,Virginia,Giles County,16837
+51073,Virginia,Gloucester County,37292
+51075,Virginia,Goochland County,22685
+51077,Virginia,Grayson County,15665
+51079,Virginia,Greene County,19612
+51081,Virginia,Greensville County,11679
+51083,Virginia,Halifax County,34563
+51085,Virginia,Hanover County,105923
+51087,Virginia,Henrico County,327898
+51089,Virginia,Henry County,51227
+51091,Virginia,Highland County,2212
+51093,Virginia,Isle of Wight County,36552
+51095,Virginia,James City County,75524
+51097,Virginia,King and Queen County,7003
+51099,Virginia,King George County,26337
+51101,Virginia,King William County,16708
+51103,Virginia,Lancaster County,10788
+51105,Virginia,Lee County,23758
+51107,Virginia,Loudoun County,398080
+51109,Virginia,Louisa County,35860
+51111,Virginia,Lunenburg County,12235
+51113,Virginia,Madison County,13277
+51115,Virginia,Mathews County,8779
+51117,Virginia,Mecklenburg County,30686
+51119,Virginia,Middlesex County,10679
+51121,Virginia,Montgomery County,98559
+51125,Virginia,Nelson County,14943
+51127,Virginia,New Kent County,21682
+51131,Virginia,Northampton County,11846
+51133,Virginia,Northumberland County,12275
+51135,Virginia,Nottoway County,15434
+51137,Virginia,Orange County,36073
+51139,Virginia,Page County,23731
+51141,Virginia,Patrick County,17665
+51143,Virginia,Pittsylvania County,61258
+51145,Virginia,Powhatan County,28601
+51147,Virginia,Prince Edward County,22703
+51149,Virginia,Prince George County,37809
+51153,Virginia,Prince William County,463023
+51155,Virginia,Pulaski County,34184
+51157,Virginia,Rappahannock County,7321
+51159,Virginia,Richmond County,8939
+51161,Virginia,Roanoke County,93730
+51163,Virginia,Rockbridge County,22659
+51165,Virginia,Rockingham County,80227
+51167,Virginia,Russell County,27048
+51169,Virginia,Scott County,21865
+51171,Virginia,Shenandoah County,43225
+51173,Virginia,Smyth County,30656
+51175,Virginia,Southampton County,17750
+51177,Virginia,Spotsylvania County,133033
+51179,Virginia,Stafford County,146649
+51181,Virginia,Surry County,6540
+51183,Virginia,Sussex County,11373
+51185,Virginia,Tazewell County,41095
+51187,Virginia,Warren County,39563
+51191,Virginia,Washington County,54387
+51193,Virginia,Westmoreland County,17780
+51195,Virginia,Wise County,38586
+51197,Virginia,Wythe County,28882
+51199,Virginia,York County,67739
+51510,Virginia,Alexandria city,160035
+51520,Virginia,Bristol city,16790
+51530,Virginia,Buena Vista city,6327
+51540,Virginia,Charlottesville city,48019
+51550,Virginia,Chesapeake city,240397
+51570,Virginia,Colonial Heights city,17830
+51580,Virginia,Covington city,5531
+51590,Virginia,Danville city,41130
+51595,Virginia,Emporia city,5282
+51600,Virginia,Fairfax city,24097
+51610,Virginia,Falls Church city,14583
+51620,Virginia,Franklin city,8176
+51630,Virginia,Fredericksburg city,28360
+51640,Virginia,Galax city,6625
+51650,Virginia,Hampton city,134669
+51660,Virginia,Harrisonburg city,54215
+51670,Virginia,Hopewell city,22621
+51678,Virginia,Lexington city,7106
+51680,Virginia,Lynchburg city,80995
+51683,Virginia,Manassas city,41501
+51685,Virginia,Manassas Park city,16591
+51690,Virginia,Martinsville city,13142
+51700,Virginia,Newport News city,179388
+51710,Virginia,Norfolk city,244703
+51720,Virginia,Norton city,3936
+51730,Virginia,Petersburg city,31750
+51735,Virginia,Poquoson city,12053
+51740,Virginia,Portsmouth city,94572
+51750,Virginia,Radford city,17658
+51760,Virginia,Richmond city,227032
+51770,Virginia,Roanoke city,99837
+51775,Virginia,Salem city,25862
+51790,Virginia,Staunton city,24528
+51800,Virginia,Suffolk city,90237
+51810,Virginia,Virginia Beach city,450435
+51820,Virginia,Waynesboro city,22327
+51830,Virginia,Williamsburg city,15031
+51840,Virginia,Winchester city,27932
+53001,Washington,Adams County,19506
+53003,Washington,Asotin County,22535
+53005,Washington,Benton County,198171
+53007,Washington,Chelan County,76533
+53009,Washington,Clallam County,75474
+53011,Washington,Clark County,474643
+53013,Washington,Columbia County,4047
+53015,Washington,Cowlitz County,106910
+53017,Washington,Douglas County,41945
+53019,Washington,Ferry County,7594
+53021,Washington,Franklin County,92125
+53023,Washington,Garfield County,2210
+53025,Washington,Grant County,95158
+53027,Washington,Grays Harbor County,72697
+53029,Washington,Island County,83159
+53031,Washington,Jefferson County,31234
+53033,Washington,King County,2188649
+53035,Washington,Kitsap County,266414
+53037,Washington,Kittitas County,46205
+53039,Washington,Klickitat County,21811
+53041,Washington,Lewis County,78200
+53043,Washington,Lincoln County,10579
+53045,Washington,Mason County,63710
+53047,Washington,Okanogan County,41742
+53049,Washington,Pacific County,21626
+53051,Washington,Pend Oreille County,13354
+53053,Washington,Pierce County,876764
+53055,Washington,San Juan County,16715
+53057,Washington,Skagit County,125619
+53059,Washington,Skamania County,11837
+53061,Washington,Snohomish County,801633
+53063,Washington,Spokane County,506152
+53065,Washington,Stevens County,44730
+53067,Washington,Thurston County,280588
+53069,Washington,Wahkiakum County,4264
+53071,Washington,Walla Walla County,60567
+53073,Washington,Whatcom County,221404
+53075,Washington,Whitman County,49046
+53077,Washington,Yakima County,250193
+54001,West Virginia,Barbour County,16497
+54003,West Virginia,Berkeley County,114920
+54005,West Virginia,Boone County,22349
+54007,West Virginia,Braxton County,14237
+54009,West Virginia,Brooke County,22443
+54011,West Virginia,Cabell County,94958
+54013,West Virginia,Calhoun County,7307
+54015,West Virginia,Clay County,8764
+54017,West Virginia,Doddridge County,8560
+54019,West Virginia,Fayette County,43521
+54021,West Virginia,Gilmer County,8005
+54023,West Virginia,Grant County,11670
+54025,West Virginia,Greenbrier County,35287
+54027,West Virginia,Hampshire County,23471
+54029,West Virginia,Hancock County,29448
+54031,West Virginia,Hardy County,13717
+54033,West Virginia,Harrison County,67811
+54035,West Virginia,Jackson County,28976
+54037,West Virginia,Jefferson County,56338
+54039,West Virginia,Kanawha County,183293
+54041,West Virginia,Lewis County,16226
+54043,West Virginia,Lincoln County,20825
+54045,West Virginia,Logan County,32925
+54047,West Virginia,McDowell County,18456
+54049,West Virginia,Marion County,56337
+54051,West Virginia,Marshall County,31190
+54053,West Virginia,Mason County,26801
+54055,West Virginia,Mercer County,59753
+54057,West Virginia,Mineral County,27222
+54059,West Virginia,Mingo County,24127
+54061,West Virginia,Monongalia County,105030
+54063,West Virginia,Monroe County,13402
+54065,West Virginia,Morgan County,17686
+54067,West Virginia,Nicholas County,25043
+54069,West Virginia,Ohio County,42035
+54071,West Virginia,Pendleton County,6996
+54073,West Virginia,Pleasants County,7512
+54075,West Virginia,Pocahontas County,8456
+54077,West Virginia,Preston County,33679
+54079,West Virginia,Putnam County,56792
+54081,West Virginia,Raleigh County,75022
+54083,West Virginia,Randolph County,28785
+54085,West Virginia,Ritchie County,9774
+54087,West Virginia,Roane County,14043
+54089,West Virginia,Summers County,12993
+54091,West Virginia,Taylor County,16930
+54093,West Virginia,Tucker County,6915
+54095,West Virginia,Tyler County,8795
+54097,West Virginia,Upshur County,24465
+54099,West Virginia,Wayne County,40153
+54101,West Virginia,Webster County,8372
+54103,West Virginia,Wetzel County,15437
+54105,West Virginia,Wirt County,5794
+54107,West Virginia,Wood County,85104
+54109,West Virginia,Wyoming County,21210
+55001,Wisconsin,Adams County,19973
+55003,Wisconsin,Ashland County,15500
+55005,Wisconsin,Barron County,45251
+55007,Wisconsin,Bayfield County,15008
+55009,Wisconsin,Brown County,262052
+55011,Wisconsin,Buffalo County,13167
+55013,Wisconsin,Burnett County,15352
+55015,Wisconsin,Calumet County,50067
+55017,Wisconsin,Chippewa County,63813
+55019,Wisconsin,Clark County,34679
+55021,Wisconsin,Columbia County,57248
+55023,Wisconsin,Crawford County,16214
+55025,Wisconsin,Dane County,536416
+55027,Wisconsin,Dodge County,87786
+55029,Wisconsin,Door County,27483
+55031,Wisconsin,Douglas County,43284
+55033,Wisconsin,Dunn County,44693
+55035,Wisconsin,Eau Claire County,103671
+55037,Wisconsin,Florence County,4371
+55039,Wisconsin,Fond du Lac County,102548
+55041,Wisconsin,Forest County,8970
+55043,Wisconsin,Grant County,51999
+55045,Wisconsin,Green County,36851
+55047,Wisconsin,Green Lake County,18760
+55049,Wisconsin,Iowa County,23715
+55051,Wisconsin,Iron County,5671
+55053,Wisconsin,Jackson County,20529
+55055,Wisconsin,Jefferson County,84832
+55057,Wisconsin,Juneau County,26576
+55059,Wisconsin,Kenosha County,168521
+55061,Wisconsin,Kewaunee County,20445
+55063,Wisconsin,La Crosse County,118274
+55065,Wisconsin,Lafayette County,16741
+55067,Wisconsin,Langlade County,19160
+55069,Wisconsin,Lincoln County,27838
+55071,Wisconsin,Manitowoc County,79175
+55073,Wisconsin,Marathon County,135732
+55075,Wisconsin,Marinette County,40310
+55077,Wisconsin,Marquette County,15308
+55078,Wisconsin,Menominee County,4615
+55079,Wisconsin,Milwaukee County,952085
+55081,Wisconsin,Monroe County,45625
+55083,Wisconsin,Oconto County,37553
+55085,Wisconsin,Oneida County,35254
+55087,Wisconsin,Outagamie County,186059
+55089,Wisconsin,Ozaukee County,88429
+55091,Wisconsin,Pepin County,7254
+55093,Wisconsin,Pierce County,41901
+55095,Wisconsin,Polk County,43450
+55097,Wisconsin,Portage County,70474
+55099,Wisconsin,Price County,13442
+55101,Wisconsin,Racine County,196071
+55103,Wisconsin,Richland County,17516
+55105,Wisconsin,Rock County,162309
+55107,Wisconsin,Rusk County,14151
+55109,Wisconsin,St. Croix County,88703
+55111,Wisconsin,Sauk County,63981
+55113,Wisconsin,Sawyer County,16418
+55115,Wisconsin,Shawano County,40935
+55117,Wisconsin,Sheboygan County,115344
+55119,Wisconsin,Taylor County,20321
+55121,Wisconsin,Trempealeau County,29472
+55123,Wisconsin,Vernon County,30759
+55125,Wisconsin,Vilas County,21683
+55127,Wisconsin,Walworth County,103082
+55129,Wisconsin,Washburn County,15758
+55131,Wisconsin,Washington County,135101
+55133,Wisconsin,Waukesha County,400621
+55135,Wisconsin,Waupaca County,51225
+55137,Wisconsin,Waushara County,24369
+55139,Wisconsin,Winnebago County,170414
+55141,Wisconsin,Wood County,73126
+56001,Wyoming,Albany County,38332
+56003,Wyoming,Big Horn County,11906
+56005,Wyoming,Campbell County,46242
+56007,Wyoming,Carbon County,15303
+56009,Wyoming,Converse County,13809
+56011,Wyoming,Crook County,7410
+56013,Wyoming,Fremont County,39803
+56015,Wyoming,Goshen County,13378
+56017,Wyoming,Hot Springs County,4696
+56019,Wyoming,Johnson County,8476
+56021,Wyoming,Laramie County,98327
+56023,Wyoming,Lincoln County,19265
+56025,Wyoming,Natrona County,79547
+56027,Wyoming,Niobrara County,2397
+56029,Wyoming,Park County,29568
+56031,Wyoming,Platte County,8562
+56033,Wyoming,Sheridan County,30210
+56035,Wyoming,Sublette County,9799
+56037,Wyoming,Sweetwater County,43534
+56039,Wyoming,Teton County,23265
+56041,Wyoming,Uinta County,20495
+56043,Wyoming,Washakie County,8064
+56045,Wyoming,Weston County,6927

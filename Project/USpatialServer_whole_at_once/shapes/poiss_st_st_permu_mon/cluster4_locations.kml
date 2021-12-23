@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+<name>Cluster 4 Locations</name>
+		<Placemark><name>06083</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-120.016,34.6729,0</coordinates></Point></Placemark>
+		<Placemark><name>06079</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-120.405,35.3871,0</coordinates></Point></Placemark>
+		<Placemark><name>06111</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-119.084,34.4565,0</coordinates></Point></Placemark>
+		<Placemark><name>06029</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-118.73,35.3429,0</coordinates></Point></Placemark>
+		<Placemark><name>06031</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-119.816,36.0753,0</coordinates></Point></Placemark>
+		<Placemark><name>06037</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-118.225,34.3207,0</coordinates></Point></Placemark>
+		<Placemark><name>06107</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-118.8,36.2202,0</coordinates></Point></Placemark>
+		<Placemark><name>06053</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-121.239,36.2172,0</coordinates></Point></Placemark>
+		<Placemark><name>06059</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-117.761,33.703,0</coordinates></Point></Placemark>
+		<Placemark><name>06019</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-119.649,36.7582,0</coordinates></Point></Placemark>
+		<Placemark><name>06069</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-121.075,36.6057,0</coordinates></Point></Placemark>
+		<Placemark><name>06039</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-119.763,37.218,0</coordinates></Point></Placemark>
+		<Placemark><name>06047</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-120.718,37.1919,0</coordinates></Point></Placemark>
+		<Placemark><name>06027</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-117.411,36.5111,0</coordinates></Point></Placemark>
+		<Placemark><name>06087</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-122.002,37.0562,0</coordinates></Point></Placemark>
+		<Placemark><name>06085</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-121.695,37.2318,0</coordinates></Point></Placemark>
+		<Placemark><name>06043</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-119.905,37.5815,0</coordinates></Point></Placemark>
+		<Placemark><name>06099</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-120.998,37.5591,0</coordinates></Point></Placemark>
+		<Placemark><name>06071</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-116.178,34.8414,0</coordinates></Point></Placemark>
+		<Placemark><name>06073</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-116.735,33.0341,0</coordinates></Point></Placemark>
+		<Placemark><name>06081</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-122.329,37.4229,0</coordinates></Point></Placemark>
+		<Placemark><name>06001</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-121.889,37.6469,0</coordinates></Point></Placemark>
+		<Placemark><name>06109</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-119.955,38.0276,0</coordinates></Point></Placemark>
+		<Placemark><name>06051</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-118.887,37.9391,0</coordinates></Point></Placemark>
+		<Placemark><name>06077</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-121.271,37.9348,0</coordinates></Point></Placemark>
+		<Placemark><name>06065</name><visibility>0</visibility><description></description><styleUrl>pros_poiss_st_permut.kml#high-rate-placemark</styleUrl><Point><coordinates>-115.994,33.7437,0</coordinates></Point></Placemark>
+</Document>
+</kml>
