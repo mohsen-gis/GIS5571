@@ -1,0 +1,132 @@
+﻿,Instruction Sets,,,
+How to…,ArcPro GUI,ArcPy,Fiona/Shapely,PostGIS
+Create a feature class,Catalog > right click database > New > Feature Class > INSERT DETAILS,"arcpy.management.CreateFeatureclass(out_path, out_name, {geometry_type}, {template}, {has_m}, {has_z}, {spatial_reference}, {config_keyword}, {spatial_grid_1}, {spatial_grid_2}, {spatial_grid_3}, {out_alias})","import fiona
+from fiona.crs import from_epsg
+from shapely.geometry import Point, mapping
+import pandas as pd
+
+file = 'coords.csv'
+table = pd.read_csv(file)
+schema = {'geometry': 'Point', 
+          'properties': {}
+         }
+
+with fiona.open(""coords.shp"", 'w', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+    for i in range(len(table)):
+        lat = table.iloc[i][0]
+        lon = table.iloc[i][1]
+        point = Point(float(lon), float(lat))
+        out.write({'geometry': mapping(point), 'properties':{}})
+        
+        ","CREATE TABLE global_points (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(64),
+    location geography(POINT,4326)
+  );"
+Add points to a feature class,"Be sure Feature Class was created as a a Feature Class ""Point"" Type > ... ","with arcpy.da.InsertCursor(FeatureClass,[""SHAPE@XY"",""Name"",""Size""]) as cursor:     cursor.insertRow((arcpy.Point(-111.0449838888, 32.657),""Name"",""Size""))","with fiona.open(""coords.shp"", 'a', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+        lat = 2003
+        lon = 3004
+        idd = 99
+        point = Point(float(lon), float(lat))
+        out.write({'geometry': mapping(point), 'properties':{'id':idd}})","
+INSERT INTO global_points (name, location) VALUES ('Forest', 'SRID=4326;POINT(-109 29)');
+INSERT INTO global_points (name, location) VALUES ('London', 'SRID=4326;POINT(0 49)');"
+Add line to a feature class,"Be sure Feature Class was created as a a Feature Class ""Line"" Type > ... ","cursor = arcpy.da.InsertCursor(FeatureClass, [""SHAPE@""])
+array = arcpy.Array([arcpy.Point(-77.4349451, 37.5408265),
+                     arcpy.Point(-78.6384349, 35.7780943)])
+spatial_reference = arcpy.SpatialReference(4326)
+polyline = arcpy.Polyline(array, spatial_reference)
+
+cursor.insertRow([polyline])","from shapely.geometry import Point, LineString
+with fiona.open(""coords.shp"", 'a', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+    
+    line = LineString([Point(0, 0), Point(1, 1)])
+    out.write({'geometry': mapping(line), 'properties':{'id':idd}})","CREATE TABLE roads (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(64),
+    geom geometry(LINESTRING,3005)
+  );   INSERT INTO roads (road_id, roads_geom, road_name)
+  VALUES (1,'LINESTRING(191232 243118,191108 243242)','Jeff Rd');"
+Add polygons to a feature class,"Be sure Feature Class was created as a a Feature Class ""Polygon"" Type > ... ","cursor = arcpy.da.InsertCursor(FeatureClass, [""SHAPE@""])
+array = arcpy.Array([arcpy.Point(-77.4349451, 37.5408265),
+arcpy.Point(-76.6384349, 37.7780943),                     arcpy.Point(-78.6384349, 35.7780943)])
+spatial_reference = arcpy.SpatialReference(4326)
+polygon = arcpy.Polygon(array, spatial_reference)
+
+cursor.insertRow([polygon])","from shapely.geometry import Point, Polygon
+with fiona.open(""coords.shp"", 'a', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+    idd = 999
+    poly = Polygon([Point(0, 0), Point(1, 1), Point(2, 2)])
+    out.write({'geometry': mapping(poly), 'properties':{'id':idd}})","CREATE TABLE polys(gid serial PRIMARY KEY, geom geometry(POLYGON,4267) );     INSERT INTO polys  (poly_id, poly_geom, poly_name)
+  VALUES (1,'POLYGON(191232 243118,191108 243242)','Jeff Rd');"
+View each row in an attribute table for a feature class,In contents > right click layer > click attribute table,"with arcpy.da.SearchCursor(""mn_county_boundaries"",[""CTY_NAME""]) as cursor:
+ for row in cursor: # for each city in the records in this feature class
+ print(row) # print name of the city","from shapely.geometry import Point, Polygon
+with fiona.open(""coords.shp"", 'r', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+    for i in out:
+        print(i['properties'])",SELECT * FROM geography_columns;
+View each geometry object in a feature class,In map pane > pan and zoom,"infc = arcpy.GetParameterAsText(0)
+
+# Enter for loop for each feature
+for row in arcpy.da.SearchCursor(infc, [""SHAPE@XY""]):
+    # Print x,y coordinates of each point feature
+    x, y = row[0]
+    print(""{}, {}"".format(x, y))","from shapely.geometry import Point, Polygon
+with fiona.open(""coords.shp"", 'r', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+    for i in out:
+        print(i['geometry'])",SELECT geometry_columns FROM geography_columns;
+Summarize the contents of a feature class,"In attribute table, view headings","arcpy.geoanalytics.SummarizeAttributes(input_layer, output_name, fields, {summary_fields}, {data_store}, {time_step_interval}, {time_step_repeat}, {time_step_reference})","from shapely.geometry import Point, Polygon
+with fiona.open(""coords.shp"", 'r', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+        print(out.meta)",\d geometry_columns
+Export to shapefile,In contents pane > right click layer > data > export features > choose folder location > name it <name>.shp,"arcpy.conversion.FeatureClassToShapefile(Input_Features, Output_Folder)","with fiona.open(""coords.shp"", 'w', 'ESRI Shapefile', schema=schema, crs = from_epsg(4326)) as out:
+    
+        point = Point(float(lon), float(lat))
+        out.write({'geometry': mapping(point), 'properties':{'id':idd}})
+        ","$ pgsql2shp -f <path to output shapefile> -h <hostname> -u <username> -P <password> databasename ""<query>"""
+Export to geodatabase,INSERT DETAILS,"arcpy.conversion.FeatureClassToGeodatabase(Input_Features, Output_Geodatabase)",,"ogr2ogr -f ""FileGDB"" path/to/mygdb.gdb PG:""host=my_host user=my_user_name dbname=my_db_name password=my_password"" -sql ""SELECT * FROM schema.table_name"" -nlt POLYGON"
+Export WKT to file,,"# The following string is the WKT for the 
+# Geographic Coordinate system ""WGS 1984"" (factory code=4326)
+    wkt = 'GEOGCS[""GCS_WGS_1984"",DATUM[""D_WGS_1984"",SPHEROID[""WGS_1984"",6378137.0,298.257223563]],\
+              PRIMEM[""Greenwich"",0.0],UNIT[""Degree"",0.0174532925199433]];\
+              -400 -400 1000000000;-100000 10000;-100000 10000;8.98315284119522E-09;\
+              0.001;0.001;IsHighPrecision'
+
+sr = arcpy.SpatialReference()
+sr.loadFromString(wkt)","from shapely.geometry import Point
+Point(float(22), float(33)).wkt","INSERT INTO geotable ( geom, name )
+  VALUES ( ST_GeomFromWKB('\x0101000000000000000000f03f000000000000f03f', 312), 'A Place');"
+Import WKT from file,,"We can import WKT from files in
+arcpy for the PointGeometry, Polyline, and Polygon geometry types through .WKT code
+at the end of each one. For example: pointgeometry.WKT","import shapely.geometry
+import shapely.wkt
+w = 'POLYGON ((10 10, 20 10, 20 20, 15 15, 15 5, 10 10))'
+shapely.wkt.loads(w)","text WKT = ST_AsText(geometry);
+geometry = ST_GeomFromText(text WKT, SRID); INSERT INTO geotable ( geom, name )
+  VALUES ( ST_GeomFromText('POINT(-126.4 45.32)', 312), 'A Place');"
+Export GeoJSON to file,,"arcpy.conversion.JSONToFeatures(in_json_file, out_features, {geometry_type})","import fiona
+import json
+
+shp = fiona.open(""coords.shp"")
+
+geojson = { ""type"": ""FeatureCollection"",
+            ""features"": [] }
+
+for f in shp:
+    geojson[""features""].append(f)
+
+with open(r""json.geojson"", ""w"") as gjs:
+    json.dump(geojson, gjs)",ogr2ogr -f GeoJSON -progress nhd_foo.json PG:dbname= host= port= user= password= -sql select * from geom
+Import GeoJSON from file,,"arcpy.conversion.FeaturesToJSON(in_features, out_json_file, {format_json}, {include_z_values}, {include_m_values}, {geoJSON}, {outputToWGS84}, {use_field_alias})","import json
+from shapely.geometry import shape, GeometryCollection
+
+with open(""json.geojson"") as f:
+    features = json.load(f)[""features""]
+
+GeometryCollection([shape(feature[""geometry""]) for feature in features])","ogr2ogr -f ""PostgreSQL"" PG:""dbname=my_database user=postgres"" ""source_data.json"" -nln destination_table -append"
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+, ,,,
